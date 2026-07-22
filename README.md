@@ -18,7 +18,7 @@ repo no tiene otro propósito que ese.
 
 ├── ml-supervisado-regresion/
 
-└── pics-for-ml
+└── pics-for-ml/
 
 ## Índice de datasets
 
