@@ -10,11 +10,17 @@ repo no tiene otro propósito que ese.
 
 ​```
 upc-datasets-docencia/
+
 ├── ml-no-supervisado/
+
 ├── ml-otros-datasets/
+
 ├── ml-supervisado-clasificacion/
+
 ├── ml-supervisado-regresion/
+
 └── pics-for-ml
+
 ​```
 
 ## Índice de datasets
