@@ -8,12 +8,14 @@ repo no tiene otro propósito que ese.
 
 ## Estructura
 
-upc-datasets-docencia/  \n\n 
-├── ml-no-supervisado/  \n\n 
-├── ml-otros-datasets/  \n\n 
-├── ml-supervisado-clasificacion/  \n\n 
-├── ml-supervisado-regresion/  \n\n 
-└── pics-for-ml  \n\n 
+​```
+upc-datasets-docencia/
+├── ml-no-supervisado/
+├── ml-otros-datasets/
+├── ml-supervisado-clasificacion/
+├── ml-supervisado-regresion/
+└── pics-for-ml
+​```
 
 ## Índice de datasets
 
