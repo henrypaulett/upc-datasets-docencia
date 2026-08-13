@@ -1,0 +1,1242 @@
+[
+ {
+  "codigo_osinerg": "16671",
+  "razon_social": "BEMCHO S.A.C.",
+  "actividad": "ESTACIÓN DE SERVICIO CON GASOCENTRO DE GLP",
+  "ubicacion": {
+   "departamento": "LIMA",
+   "provincia": "LIMA",
+   "distrito": "LIMA",
+   "direccion": "JR. SARGENTO ENRIQUE VILLAR 308 MZ. 12-B LT. 06 URB. SANTA BEATRIZ"
+  },
+  "fecha_reporte": "2026-08-09",
+  "productos": [
+   {
+    "nombre": "DIESEL B5 S-50 UV",
+    "precio": 23.59,
+    "unidad": "Galones"
+   },
+   {
+    "nombre": "GASOHOL PREMIUM",
+    "precio": 19.99,
+    "unidad": "Galones"
+   },
+   {
+    "nombre": "GASOHOL REGULAR",
+    "precio": 18.99,
+    "unidad": "Galones"
+   },
+   {
+    "nombre": "GLP - G",
+    "precio": 7.07,
+    "unidad": "Galones"
+   }
+  ]
+ },
+ {
+  "codigo_osinerg": "21052",
+  "razon_social": "COESTI S.A",
+  "actividad": "EE.SS con GLP y GNV",
+  "ubicacion": {
+   "departamento": "LIMA",
+   "provincia": "LIMA",
+   "distrito": "LIMA",
+   "direccion": "AV. MARISCAL OSCAR R. BENAVIDES Nº 871 (ANTES: AV. COLONIAL ESQ. AV. TINGO MARIA)"
+  },
+  "fecha_reporte": "2026-08-09",
+  "productos": [
+   {
+    "nombre": "DIESEL B5 S-50 UV",
+    "precio": 23.99,
+    "unidad": "Galones"
+   },
+   {
+    "nombre": "GAS NATURAL VEHICULAR COMPRIMIDO",
+    "precio": 1.72,
+    "unidad": "Metros Cúbicos"
+   },
+   {
+    "nombre": "GASOHOL PREMIUM",
+    "precio": 20.59,
+    "unidad": "Galones"
+   },
+   {
+    "nombre": "GASOHOL REGULAR",
+    "precio": 18.59,
+    "unidad": "Galones"
+   },
+   {
+    "nombre": "GLP - G",
+    "precio": 7.65,
+    "unidad": "Galones"
+   }
+  ]
+ },
+ {
+  "codigo_osinerg": "7109",
+  "razon_social": "COESTI S.A",
+  "actividad": "EE.SS con GLP y GNV",
+  "ubicacion": {
+   "departamento": "LIMA",
+   "provincia": "LIMA",
+   "distrito": "LIMA",
+   "direccion": "AV. TINGO MARIA N° 1172-1194, ESQ. CON RAUL PORRAS BARRENECHEA"
+  },
+  "fecha_reporte": "2026-08-09",
+  "productos": [
+   {
+    "nombre": "DIESEL B5 S-50 UV",
+    "precio": 23.99,
+    "unidad": "Galones"
+   },
+   {
+    "nombre": "GAS NATURAL VEHICULAR COMPRIMIDO",
+    "precio": 1.66,
+    "unidad": "Metros Cúbicos"
+   },
+   {
+    "nombre": "GASOHOL PREMIUM",
+    "precio": 20.29,
+    "unidad": "Galones"
+   },
+   {
+    "nombre": "GASOHOL REGULAR",
+    "precio": 18.99,
+    "unidad": "Galones"
+   },
+   {
+    "nombre": "GLP - G",
+    "precio": 7.29,
+    "unidad": "Galones"
+   }
+  ]
+ },
+ {
+  "codigo_osinerg": "7170",
+  "razon_social": "COESTI S.A",
+  "actividad": "EE.SS con GLP y GNV",
+  "ubicacion": {
+   "departamento": "LIMA",
+   "provincia": "LIMA",
+   "distrito": "LIMA",
+   "direccion": "AV. COLONIAL N° 300 (ANTES AV. OSCAR R. BENAVIDES) ESQUINA CON JR. ASCOPE"
+  },
+  "fecha_reporte": "2026-08-08",
+  "productos": [
+   {
+    "nombre": "DIESEL B5 S-50 UV",
+    "precio": 23.99,
+    "unidad": "Galones"
+   },
+   {
+    "nombre": "GAS NATURAL VEHICULAR COMPRIMIDO",
+    "precio": 1.69,
+    "unidad": "Metros Cúbicos"
+   },
+   {
+    "nombre": "GASOHOL PREMIUM",
+    "precio": 19.99,
+    "unidad": "Galones"
+   },
+   {
+    "nombre": "GASOHOL REGULAR",
+    "precio": 18.79,
+    "unidad": "Galones"
+   },
+   {
+    "nombre": "GLP - G",
+    "precio": 7.89,
+    "unidad": "Galones"
+   }
+  ]
+ },
+ {
+  "codigo_osinerg": "82903",
+  "razon_social": "COESTI S.A",
+  "actividad": "EE.SS con GLP y GNV",
+  "ubicacion": {
+   "departamento": "LIMA",
+   "provincia": "LIMA",
+   "distrito": "LIMA",
+   "direccion": "AV. GRAU N° 1308 ESQ JR. HUANUCO Nª 1101"
+  },
+  "fecha_reporte": "2026-08-09",
+  "productos": [
+   {
+    "nombre": "DIESEL B5 S-50 UV",
+    "precio": 24.49,
+    "unidad": "Galones"
+   },
+   {
+    "nombre": "GAS NATURAL VEHICULAR COMPRIMIDO",
+    "precio": 1.71,
+    "unidad": "Metros Cúbicos"
+   },
+   {
+    "nombre": "GASOHOL PREMIUM",
+    "precio": 19.99,
+    "unidad": "Galones"
+   },
+   {
+    "nombre": "GASOHOL REGULAR",
+    "precio": 18.99,
+    "unidad": "Galones"
+   },
+   {
+    "nombre": "GLP - G",
+    "precio": 6.99,
+    "unidad": "Galones"
+   }
+  ]
+ },
+ {
+  "codigo_osinerg": "17870",
+  "razon_social": "COESTI S.A.",
+  "actividad": "EE.SS con GLP y GNV",
+  "ubicacion": {
+   "departamento": "LIMA",
+   "provincia": "LIMA",
+   "distrito": "LIMA",
+   "direccion": "AV. NICOLAS DUEÑAS N° 308-310 ESQ. CON AV. ENRIQUE MEIGGS"
+  },
+  "fecha_reporte": "2026-08-09",
+  "productos": [
+   {
+    "nombre": "DIESEL B5 S-50 UV",
+    "precio": 23.99,
+    "unidad": "Galones"
+   },
+   {
+    "nombre": "GAS NATURAL VEHICULAR COMPRIMIDO",
+    "precio": 1.54,
+    "unidad": "Metros Cúbicos"
+   },
+   {
+    "nombre": "GASOHOL PREMIUM",
+    "precio": 19.99,
+    "unidad": "Galones"
+   },
+   {
+    "nombre": "GASOHOL REGULAR",
+    "precio": 18.99,
+    "unidad": "Galones"
+   },
+   {
+    "nombre": "GLP - G",
+    "precio": 7.55,
+    "unidad": "Galones"
+   }
+  ]
+ },
+ {
+  "codigo_osinerg": "19945",
+  "razon_social": "COESTI S.A.",
+  "actividad": "ESTACIÓN DE SERVICIO CON GASOCENTRO DE GLP",
+  "ubicacion": {
+   "departamento": "LIMA",
+   "provincia": "LIMA",
+   "distrito": "LIMA",
+   "direccion": "AV. OSCAR R. BENAVIDES N° 1380"
+  },
+  "fecha_reporte": "2026-08-08",
+  "productos": [
+   {
+    "nombre": "DIESEL B5 S-50 UV",
+    "precio": 23.99,
+    "unidad": "Galones"
+   },
+   {
+    "nombre": "GASOHOL PREMIUM",
+    "precio": 19.89,
+    "unidad": "Galones"
+   },
+   {
+    "nombre": "GASOHOL REGULAR",
+    "precio": 18.89,
+    "unidad": "Galones"
+   },
+   {
+    "nombre": "GLP - G",
+    "precio": 7.55,
+    "unidad": "Galones"
+   }
+  ]
+ },
+ {
+  "codigo_osinerg": "86284",
+  "razon_social": "COESTI S.A.",
+  "actividad": "EE.SS con GLP y GNV",
+  "ubicacion": {
+   "departamento": "LIMA",
+   "provincia": "LIMA",
+   "distrito": "LIMA",
+   "direccion": "AV. UNIVERSITARIA SUR N° 498"
+  },
+  "fecha_reporte": "2026-08-07",
+  "productos": [
+   {
+    "nombre": "DIESEL B5 S-50 UV",
+    "precio": 23.79,
+    "unidad": "Galones"
+   },
+   {
+    "nombre": "GAS NATURAL VEHICULAR COMPRIMIDO",
+    "precio": 1.79,
+    "unidad": "Metros Cúbicos"
+   },
+   {
+    "nombre": "GASOHOL PREMIUM",
+    "precio": 19.89,
+    "unidad": "Galones"
+   },
+   {
+    "nombre": "GASOHOL REGULAR",
+    "precio": 18.29,
+    "unidad": "Galones"
+   },
+   {
+    "nombre": "GLP - G",
+    "precio": 7.75,
+    "unidad": "Galones"
+   }
+  ]
+ },
+ {
+  "codigo_osinerg": "8228",
+  "razon_social": "COESTI SA DUENAS",
+  "actividad": "ESTACIÓN DE SERVICIOS / GRIFOS",
+  "ubicacion": {
+   "departamento": "LIMA",
+   "provincia": "LIMA",
+   "distrito": "LIMA",
+   "direccion": "AV. ARGENTINA N° 1801"
+  },
+  "fecha_reporte": "2026-08-09",
+  "productos": [
+   {
+    "nombre": "DIESEL B5 S-50 UV",
+    "precio": 23.99,
+    "unidad": "Galones"
+   },
+   {
+    "nombre": "GASOHOL PREMIUM",
+    "precio": 19.99,
+    "unidad": "Galones"
+   },
+   {
+    "nombre": "GASOHOL REGULAR",
+    "precio": 18.99,
+    "unidad": "Galones"
+   }
+  ]
+ },
+ {
+  "codigo_osinerg": "16143",
+  "razon_social": "COOPERATIVA DE SERVICIOS MULTIPLES ALAS PERUANAS",
+  "actividad": "EE.SS con GLP y GNV",
+  "ubicacion": {
+   "departamento": "LIMA",
+   "provincia": "LIMA",
+   "distrito": "LIMA",
+   "direccion": "ESQ. DE LA AV. VENEZUELA Nº 3343 CON JR. ARISTIDES DEL CARPIO, URB. INDUSTRIAL PALOMINO"
+  },
+  "fecha_reporte": "2026-08-08",
+  "productos": [
+   {
+    "nombre": "DIESEL B5 S-50 UV",
+    "precio": 22.44,
+    "unidad": "Galones"
+   },
+   {
+    "nombre": "GAS NATURAL VEHICULAR COMPRIMIDO",
+    "precio": 1.6,
+    "unidad": "Metros Cúbicos"
+   },
+   {
+    "nombre": "GASOHOL PREMIUM",
+    "precio": 19.34,
+    "unidad": "Galones"
+   },
+   {
+    "nombre": "GASOHOL REGULAR",
+    "precio": 18.24,
+    "unidad": "Galones"
+   },
+   {
+    "nombre": "GLP - G",
+    "precio": 7.39,
+    "unidad": "Galones"
+   }
+  ]
+ },
+ {
+  "codigo_osinerg": "144359",
+  "razon_social": "ENERGIGAS S.A.C.",
+  "actividad": "EE.SS con GLP y GNV",
+  "ubicacion": {
+   "departamento": "LIMA",
+   "provincia": "LIMA",
+   "distrito": "LIMA",
+   "direccion": "AV. VENEZUELA N° 3300"
+  },
+  "fecha_reporte": "2026-08-08",
+  "productos": [
+   {
+    "nombre": "DIESEL B5 S-50 UV",
+    "precio": 22.42,
+    "unidad": "Galones"
+   },
+   {
+    "nombre": "GAS NATURAL VEHICULAR COMPRIMIDO",
+    "precio": 1.58,
+    "unidad": "Metros Cúbicos"
+   },
+   {
+    "nombre": "GASOHOL PREMIUM",
+    "precio": 19.3,
+    "unidad": "Galones"
+   },
+   {
+    "nombre": "GASOHOL REGULAR",
+    "precio": 18.22,
+    "unidad": "Galones"
+   },
+   {
+    "nombre": "GLP - G",
+    "precio": 7.37,
+    "unidad": "Galones"
+   }
+  ]
+ },
+ {
+  "codigo_osinerg": "18881",
+  "razon_social": "ENERGIGAS SAC",
+  "actividad": "EE.SS con GLP y GNV",
+  "ubicacion": {
+   "departamento": "LIMA",
+   "provincia": "LIMA",
+   "distrito": "LIMA",
+   "direccion": "AV. VENEZUELA N° 2180 ESQ. CON EL JR. YUNGAY"
+  },
+  "fecha_reporte": "2026-08-08",
+  "productos": [
+   {
+    "nombre": "DIESEL B5 S-50 UV",
+    "precio": 23.45,
+    "unidad": "Galones"
+   },
+   {
+    "nombre": "GAS NATURAL VEHICULAR COMPRIMIDO",
+    "precio": 1.58,
+    "unidad": "Metros Cúbicos"
+   },
+   {
+    "nombre": "GASOHOL PREMIUM",
+    "precio": 19.55,
+    "unidad": "Galones"
+   },
+   {
+    "nombre": "GASOHOL REGULAR",
+    "precio": 18.55,
+    "unidad": "Galones"
+   },
+   {
+    "nombre": "GLP - G",
+    "precio": 7.47,
+    "unidad": "Galones"
+   }
+  ]
+ },
+ {
+  "codigo_osinerg": "82460",
+  "razon_social": "ENERGIGAS SAC",
+  "actividad": "EE.SS con GLP y GNV",
+  "ubicacion": {
+   "departamento": "LIMA",
+   "provincia": "LIMA",
+   "distrito": "LIMA",
+   "direccion": "AV. ARGENTINA Nº 1830-1858, ESQUINA CON AV. NICOLAS DUEÑAS"
+  },
+  "fecha_reporte": "2026-08-08",
+  "productos": [
+   {
+    "nombre": "DIESEL B5 S-50 UV",
+    "precio": 23.95,
+    "unidad": "Galones"
+   },
+   {
+    "nombre": "GAS NATURAL VEHICULAR COMPRIMIDO",
+    "precio": 1.65,
+    "unidad": "Metros Cúbicos"
+   },
+   {
+    "nombre": "GASOHOL PREMIUM",
+    "precio": 19.95,
+    "unidad": "Galones"
+   },
+   {
+    "nombre": "GASOHOL REGULAR",
+    "precio": 18.95,
+    "unidad": "Galones"
+   },
+   {
+    "nombre": "GLP - G",
+    "precio": 7.53,
+    "unidad": "Galones"
+   }
+  ]
+ },
+ {
+  "codigo_osinerg": "17947",
+  "razon_social": "ESTACION DE SERVICIO NIAGARA",
+  "actividad": "ESTACIÓN DE SERVICIO CON GASOCENTRO DE GLP",
+  "ubicacion": {
+   "departamento": "LIMA",
+   "provincia": "LIMA",
+   "distrito": "LIMA",
+   "direccion": "JR. ELVIRA GARCIA Y GARCIA Nº 2790, 2794, 2796."
+  },
+  "fecha_reporte": "2026-08-08",
+  "productos": [
+   {
+    "nombre": "DIESEL B5 S-50 UV",
+    "precio": 24.98,
+    "unidad": "Galones"
+   },
+   {
+    "nombre": "GASOHOL PREMIUM",
+    "precio": 19.98,
+    "unidad": "Galones"
+   },
+   {
+    "nombre": "GASOHOL REGULAR",
+    "precio": 18.98,
+    "unidad": "Galones"
+   },
+   {
+    "nombre": "GLP - G",
+    "precio": 7.58,
+    "unidad": "Galones"
+   }
+  ]
+ },
+ {
+  "codigo_osinerg": "8546",
+  "razon_social": "FORMAS METALICAS S.A.",
+  "actividad": "EE.SS con GNV",
+  "ubicacion": {
+   "departamento": "LIMA",
+   "provincia": "LIMA",
+   "distrito": "LIMA",
+   "direccion": "AV. ARGENTINA Nº 915"
+  },
+  "fecha_reporte": "2026-08-07",
+  "productos": [
+   {
+    "nombre": "DIESEL B5 S-50 UV",
+    "precio": 24.2,
+    "unidad": "Galones"
+   },
+   {
+    "nombre": "GAS NATURAL VEHICULAR COMPRIMIDO",
+    "precio": 1.72,
+    "unidad": "Metros Cúbicos"
+   },
+   {
+    "nombre": "GASOHOL PREMIUM",
+    "precio": 21.1,
+    "unidad": "Galones"
+   },
+   {
+    "nombre": "GASOHOL REGULAR",
+    "precio": 19.1,
+    "unidad": "Galones"
+   }
+  ]
+ },
+ {
+  "codigo_osinerg": "18401",
+  "razon_social": "GASOLINERAS  S.A.C.",
+  "actividad": "EE.SS con GLP y GNV",
+  "ubicacion": {
+   "departamento": "LIMA",
+   "provincia": "LIMA",
+   "distrito": "LIMA",
+   "direccion": "AV. 28 DE JULIO 159. ESQUINA CON AV. BRASIL"
+  },
+  "fecha_reporte": "2026-08-09",
+  "productos": [
+   {
+    "nombre": "DIESEL B5 S-50 UV",
+    "precio": 23.49,
+    "unidad": "Galones"
+   },
+   {
+    "nombre": "GAS NATURAL VEHICULAR COMPRIMIDO",
+    "precio": 1.69,
+    "unidad": "Metros Cúbicos"
+   },
+   {
+    "nombre": "GASOHOL PREMIUM",
+    "precio": 18.79,
+    "unidad": "Galones"
+   },
+   {
+    "nombre": "GASOHOL REGULAR",
+    "precio": 17.99,
+    "unidad": "Galones"
+   },
+   {
+    "nombre": "GLP - G",
+    "precio": 7.79,
+    "unidad": "Galones"
+   }
+  ]
+ },
+ {
+  "codigo_osinerg": "16612",
+  "razon_social": "GLOBAL FUEL SA",
+  "actividad": "EE.SS con GLP y GNV",
+  "ubicacion": {
+   "departamento": "LIMA",
+   "provincia": "LIMA",
+   "distrito": "LIMA",
+   "direccion": "AV. PETIT THOUARS N° 1148, URB. SANTA. BEATRIZ"
+  },
+  "fecha_reporte": "2026-08-05",
+  "productos": [
+   {
+    "nombre": "DIESEL B5 S-50 UV",
+    "precio": 25.99,
+    "unidad": "Galones"
+   },
+   {
+    "nombre": "GAS NATURAL VEHICULAR COMPRIMIDO",
+    "precio": 1.84,
+    "unidad": "Metros Cúbicos"
+   },
+   {
+    "nombre": "GASOHOL PREMIUM",
+    "precio": 20.29,
+    "unidad": "Galones"
+   },
+   {
+    "nombre": "GASOHOL REGULAR",
+    "precio": 19.39,
+    "unidad": "Galones"
+   },
+   {
+    "nombre": "GLP - G",
+    "precio": 7.99,
+    "unidad": "Galones"
+   }
+  ]
+ },
+ {
+  "codigo_osinerg": "7276",
+  "razon_social": "GRIFO EL SALVADOR S.R.L.",
+  "actividad": "EE.SS con GLP y GNV",
+  "ubicacion": {
+   "departamento": "LIMA",
+   "provincia": "LIMA",
+   "distrito": "LIMA",
+   "direccion": "AV. VENEZUELA NRO. 2600"
+  },
+  "fecha_reporte": "2026-08-07",
+  "productos": [
+   {
+    "nombre": "DIESEL B5 S-50 UV",
+    "precio": 24.99,
+    "unidad": "Galones"
+   },
+   {
+    "nombre": "GAS NATURAL VEHICULAR COMPRIMIDO",
+    "precio": 1.69,
+    "unidad": "Metros Cúbicos"
+   },
+   {
+    "nombre": "GASOHOL PREMIUM",
+    "precio": 20.89,
+    "unidad": "Galones"
+   },
+   {
+    "nombre": "GASOHOL REGULAR",
+    "precio": 19.89,
+    "unidad": "Galones"
+   },
+   {
+    "nombre": "GLP - G",
+    "precio": 7.55,
+    "unidad": "Galones"
+   }
+  ]
+ },
+ {
+  "codigo_osinerg": "84523",
+  "razon_social": "GRIFO J.H.P. E.I.R.LTDA.",
+  "actividad": "ESTACIÓN DE SERVICIOS / GRIFOS",
+  "ubicacion": {
+   "departamento": "LIMA",
+   "provincia": "LIMA",
+   "distrito": "LIMA",
+   "direccion": "AV. OSCAR R. BENAVIDES INTERSECCIÓN JR. PRESBITERO GÁSPAR HERNÁNDEZ"
+  },
+  "fecha_reporte": "2026-08-08",
+  "productos": [
+   {
+    "nombre": "DIESEL B5 S-50 UV",
+    "precio": 22.99,
+    "unidad": "Galones"
+   },
+   {
+    "nombre": "GASOHOL PREMIUM",
+    "precio": 19.69,
+    "unidad": "Galones"
+   },
+   {
+    "nombre": "GASOHOL REGULAR",
+    "precio": 18.69,
+    "unidad": "Galones"
+   }
+  ]
+ },
+ {
+  "codigo_osinerg": "19958",
+  "razon_social": "GRIFO SAN IGNACIO SAC",
+  "actividad": "ESTACIÓN DE SERVICIOS / GRIFOS",
+  "ubicacion": {
+   "departamento": "LIMA",
+   "provincia": "LIMA",
+   "distrito": "LIMA",
+   "direccion": "AV. ARENALES N° 881. ESQUINA EMILIO FERNANDEZ"
+  },
+  "fecha_reporte": "2026-08-09",
+  "productos": [
+   {
+    "nombre": "DIESEL B5 S-50 UV",
+    "precio": 26.49,
+    "unidad": "Galones"
+   },
+   {
+    "nombre": "GASOHOL PREMIUM",
+    "precio": 21.99,
+    "unidad": "Galones"
+   },
+   {
+    "nombre": "GASOHOL REGULAR",
+    "precio": 20.49,
+    "unidad": "Galones"
+   }
+  ]
+ },
+ {
+  "codigo_osinerg": "16644",
+  "razon_social": "GRIFOS ESPINOZA S.A.",
+  "actividad": "EE.SS con GLP y GNV",
+  "ubicacion": {
+   "departamento": "LIMA",
+   "provincia": "LIMA",
+   "distrito": "LIMA",
+   "direccion": "AV. AREQUIPA Nº 908, ESQUINA CON JR. EMILIO FERNANDEZ - URB. SANTA BEATRIZ"
+  },
+  "fecha_reporte": "2026-08-05",
+  "productos": [
+   {
+    "nombre": "DIESEL B5 S-50 UV",
+    "precio": 25.49,
+    "unidad": "Galones"
+   },
+   {
+    "nombre": "GAS NATURAL VEHICULAR COMPRIMIDO",
+    "precio": 1.85,
+    "unidad": "Metros Cúbicos"
+   },
+   {
+    "nombre": "GASOHOL PREMIUM",
+    "precio": 19.89,
+    "unidad": "Galones"
+   },
+   {
+    "nombre": "GASOHOL REGULAR",
+    "precio": 18.99,
+    "unidad": "Galones"
+   },
+   {
+    "nombre": "GLP - G",
+    "precio": 7.07,
+    "unidad": "Galones"
+   }
+  ]
+ },
+ {
+  "codigo_osinerg": "19956",
+  "razon_social": "GRIFOS ESPINOZA S.A.",
+  "actividad": "ESTACIÓN DE SERVICIOS / GRIFOS",
+  "ubicacion": {
+   "departamento": "LIMA",
+   "provincia": "LIMA",
+   "distrito": "LIMA",
+   "direccion": "ESQ. AV. ZORRITOS S/N. CON MIGUEL BAQUERO N° 498"
+  },
+  "fecha_reporte": "2026-08-04",
+  "productos": [
+   {
+    "nombre": "DIESEL B5 S-50 UV",
+    "precio": 23.49,
+    "unidad": "Galones"
+   },
+   {
+    "nombre": "GASOHOL PREMIUM",
+    "precio": 21.19,
+    "unidad": "Galones"
+   },
+   {
+    "nombre": "GASOHOL REGULAR",
+    "precio": 19.29,
+    "unidad": "Galones"
+   }
+  ]
+ },
+ {
+  "codigo_osinerg": "9635",
+  "razon_social": "GRIFOSA SAC LIMA",
+  "actividad": "EE.SS con GLP y GNV",
+  "ubicacion": {
+   "departamento": "LIMA",
+   "provincia": "LIMA",
+   "distrito": "LIMA",
+   "direccion": "AV. OSCAR R. BENAVIDES NO. 2398"
+  },
+  "fecha_reporte": "2026-08-08",
+  "productos": [
+   {
+    "nombre": "DIESEL B5 S-50 UV",
+    "precio": 24.99,
+    "unidad": "Galones"
+   },
+   {
+    "nombre": "GASOHOL PREMIUM",
+    "precio": 20.39,
+    "unidad": "Galones"
+   },
+   {
+    "nombre": "GASOHOL REGULAR",
+    "precio": 19.39,
+    "unidad": "Galones"
+   },
+   {
+    "nombre": "GLP - G",
+    "precio": 7.79,
+    "unidad": "Galones"
+   }
+  ]
+ },
+ {
+  "codigo_osinerg": "82834",
+  "razon_social": "OCORIS 1 SAC",
+  "actividad": "EE.SS con GLP y GNV",
+  "ubicacion": {
+   "departamento": "LIMA",
+   "provincia": "LIMA",
+   "distrito": "LIMA",
+   "direccion": "AV. ARGENTINA 898 ESQUINA CON AV. ANTONIO DE ELIZALDE"
+  },
+  "fecha_reporte": "2026-08-08",
+  "productos": [
+   {
+    "nombre": "DIESEL B5 S-50 UV",
+    "precio": 24.39,
+    "unidad": "Galones"
+   },
+   {
+    "nombre": "GAS NATURAL VEHICULAR COMPRIMIDO",
+    "precio": 1.64,
+    "unidad": "Metros Cúbicos"
+   },
+   {
+    "nombre": "GASOHOL PREMIUM",
+    "precio": 24.29,
+    "unidad": "Galones"
+   },
+   {
+    "nombre": "GASOHOL REGULAR",
+    "precio": 20.59,
+    "unidad": "Galones"
+   },
+   {
+    "nombre": "GLP - G",
+    "precio": 7.59,
+    "unidad": "Galones"
+   }
+  ]
+ },
+ {
+  "codigo_osinerg": "8705",
+  "razon_social": "PUNTO GAS S.A.C.",
+  "actividad": "ESTACIÓN DE SERVICIO CON GASOCENTRO DE GLP",
+  "ubicacion": {
+   "departamento": "LIMA",
+   "provincia": "LIMA",
+   "distrito": "LIMA",
+   "direccion": "AV. MARISCAL OSCAR R. BENAVIDES N° 1623 - 1657, URB. LA TRINIDAD"
+  },
+  "fecha_reporte": "2026-08-08",
+  "productos": [
+   {
+    "nombre": "DIESEL B5 S-50 UV",
+    "precio": 23.99,
+    "unidad": "Galones"
+   },
+   {
+    "nombre": "GASOHOL PREMIUM",
+    "precio": 19.69,
+    "unidad": "Galones"
+   },
+   {
+    "nombre": "GASOHOL REGULAR",
+    "precio": 18.69,
+    "unidad": "Galones"
+   },
+   {
+    "nombre": "GLP - G",
+    "precio": 7.59,
+    "unidad": "Galones"
+   }
+  ]
+ },
+ {
+  "codigo_osinerg": "16600",
+  "razon_social": "REPSOL COMERCIAL S.A.C.",
+  "actividad": "ESTACIÓN DE SERVICIOS / GRIFOS",
+  "ubicacion": {
+   "departamento": "LIMA",
+   "provincia": "LIMA",
+   "distrito": "LIMA",
+   "direccion": "AV. UNIVERSITARIA SUR N° 546, CON FRENTE CALLE MATERIALES N° 156"
+  },
+  "fecha_reporte": "2026-08-09",
+  "productos": [
+   {
+    "nombre": "DIESEL B5 S-50 UV",
+    "precio": 26.49,
+    "unidad": "Galones"
+   },
+   {
+    "nombre": "GASOHOL PREMIUM",
+    "precio": 20.99,
+    "unidad": "Galones"
+   },
+   {
+    "nombre": "GASOHOL REGULAR",
+    "precio": 19.99,
+    "unidad": "Galones"
+   }
+  ]
+ },
+ {
+  "codigo_osinerg": "17867",
+  "razon_social": "REPSOL COMERCIAL S.A.C.",
+  "actividad": "ESTACIÓN DE SERVICIOS / GRIFOS",
+  "ubicacion": {
+   "departamento": "LIMA",
+   "provincia": "LIMA",
+   "distrito": "LIMA",
+   "direccion": "AV. ARGENTINA Nº 3003 - 3005"
+  },
+  "fecha_reporte": "2026-08-09",
+  "productos": [
+   {
+    "nombre": "DIESEL B5 S-50 UV",
+    "precio": 26.79,
+    "unidad": "Galones"
+   },
+   {
+    "nombre": "GASOHOL PREMIUM",
+    "precio": 20.99,
+    "unidad": "Galones"
+   },
+   {
+    "nombre": "GASOHOL REGULAR",
+    "precio": 19.99,
+    "unidad": "Galones"
+   }
+  ]
+ },
+ {
+  "codigo_osinerg": "18872",
+  "razon_social": "REPSOL COMERCIAL S.A.C.",
+  "actividad": "ESTACIÓN DE SERVICIO CON GASOCENTRO DE GLP",
+  "ubicacion": {
+   "departamento": "LIMA",
+   "provincia": "LIMA",
+   "distrito": "LIMA",
+   "direccion": "AV. COLONIAL N° 140, 160, 164, 178, ESQUINA CON JR. HUAROCHIRI N° 591"
+  },
+  "fecha_reporte": "2026-08-09",
+  "productos": [
+   {
+    "nombre": "DIESEL B5 S-50 UV",
+    "precio": 26.49,
+    "unidad": "Galones"
+   },
+   {
+    "nombre": "GASOHOL PREMIUM",
+    "precio": 20.99,
+    "unidad": "Galones"
+   },
+   {
+    "nombre": "GASOHOL REGULAR",
+    "precio": 19.99,
+    "unidad": "Galones"
+   },
+   {
+    "nombre": "GLP - G",
+    "precio": 7.99,
+    "unidad": "Galones"
+   }
+  ]
+ },
+ {
+  "codigo_osinerg": "37610",
+  "razon_social": "REPSOL COMERCIAL S.A.C.",
+  "actividad": "ESTACIÓN DE SERVICIOS / GRIFOS",
+  "ubicacion": {
+   "departamento": "LIMA",
+   "provincia": "LIMA",
+   "distrito": "LIMA",
+   "direccion": "AV. COLONIAL N° 1817 - 1821"
+  },
+  "fecha_reporte": "2026-08-09",
+  "productos": [
+   {
+    "nombre": "DIESEL B5 S-50 UV",
+    "precio": 26.49,
+    "unidad": "Galones"
+   },
+   {
+    "nombre": "GASOHOL PREMIUM",
+    "precio": 20.99,
+    "unidad": "Galones"
+   },
+   {
+    "nombre": "GASOHOL REGULAR",
+    "precio": 19.99,
+    "unidad": "Galones"
+   }
+  ]
+ },
+ {
+  "codigo_osinerg": "9520",
+  "razon_social": "REPSOL COMERCIAL S.A.C.",
+  "actividad": "EE.SS con GLP y GNV",
+  "ubicacion": {
+   "departamento": "LIMA",
+   "provincia": "LIMA",
+   "distrito": "LIMA",
+   "direccion": "AV. OSCAR R. BENAVIDES N° 930"
+  },
+  "fecha_reporte": "2026-08-09",
+  "productos": [
+   {
+    "nombre": "DIESEL B5 S-50 UV",
+    "precio": 26.49,
+    "unidad": "Galones"
+   },
+   {
+    "nombre": "GAS NATURAL VEHICULAR COMPRIMIDO",
+    "precio": 1.75,
+    "unidad": "Metros Cúbicos"
+   },
+   {
+    "nombre": "GASOHOL PREMIUM",
+    "precio": 20.99,
+    "unidad": "Galones"
+   },
+   {
+    "nombre": "GASOHOL REGULAR",
+    "precio": 19.99,
+    "unidad": "Galones"
+   },
+   {
+    "nombre": "GLP - G",
+    "precio": 7.99,
+    "unidad": "Galones"
+   }
+  ]
+ },
+ {
+  "codigo_osinerg": "18822",
+  "razon_social": "REPSOL COMERCIAL S.A.C. ",
+  "actividad": "ESTACIÓN DE SERVICIO CON GASOCENTRO DE GLP",
+  "ubicacion": {
+   "departamento": "LIMA",
+   "provincia": "LIMA",
+   "distrito": "LIMA",
+   "direccion": "AV. REPUBLICA DE ARGENTINA N° 2501  2505 CON JR. LEONARDO ARRIETA N° 760 - 786"
+  },
+  "fecha_reporte": "2026-08-09",
+  "productos": [
+   {
+    "nombre": "DIESEL B5 S-50 UV",
+    "precio": 26.49,
+    "unidad": "Galones"
+   },
+   {
+    "nombre": "GASOHOL PREMIUM",
+    "precio": 20.99,
+    "unidad": "Galones"
+   },
+   {
+    "nombre": "GASOHOL REGULAR",
+    "precio": 19.99,
+    "unidad": "Galones"
+   },
+   {
+    "nombre": "GLP - G",
+    "precio": 7.79,
+    "unidad": "Galones"
+   }
+  ]
+ },
+ {
+  "codigo_osinerg": "18824",
+  "razon_social": "REPSOL COMERCIAL SAC",
+  "actividad": "ESTACIÓN DE SERVICIO CON GASOCENTRO DE GLP",
+  "ubicacion": {
+   "departamento": "LIMA",
+   "provincia": "LIMA",
+   "distrito": "LIMA",
+   "direccion": "AV. TINGO MARIA N° 994, ESQUINA CON AV. REPUBLICA DE VENEZUELA N° 1820"
+  },
+  "fecha_reporte": "2026-08-09",
+  "productos": [
+   {
+    "nombre": "DIESEL B5 S-50 UV",
+    "precio": 26.49,
+    "unidad": "Galones"
+   },
+   {
+    "nombre": "GASOHOL PREMIUM",
+    "precio": 20.99,
+    "unidad": "Galones"
+   },
+   {
+    "nombre": "GASOHOL REGULAR",
+    "precio": 19.99,
+    "unidad": "Galones"
+   },
+   {
+    "nombre": "GLP - G",
+    "precio": 7.19,
+    "unidad": "Galones"
+   }
+  ]
+ },
+ {
+  "codigo_osinerg": "42769",
+  "razon_social": "REPSOL COMERCIAL SAC",
+  "actividad": "EE.SS con GLP y GNV",
+  "ubicacion": {
+   "departamento": "LIMA",
+   "provincia": "LIMA",
+   "distrito": "LIMA",
+   "direccion": "AV. NICOLAS DUEÑAS N° 606, 610, 616 (ANTES AV. NICOLAS DUEÑAS N° 590 CDRA 17 DE LA AV. ARGENTINA)"
+  },
+  "fecha_reporte": "2026-08-09",
+  "productos": [
+   {
+    "nombre": "DIESEL B5 S-50 UV",
+    "precio": 26.49,
+    "unidad": "Galones"
+   },
+   {
+    "nombre": "GAS NATURAL VEHICULAR COMPRIMIDO",
+    "precio": 1.63,
+    "unidad": "Metros Cúbicos"
+   },
+   {
+    "nombre": "GASOHOL PREMIUM",
+    "precio": 22.99,
+    "unidad": "Galones"
+   },
+   {
+    "nombre": "GASOHOL REGULAR",
+    "precio": 21.49,
+    "unidad": "Galones"
+   },
+   {
+    "nombre": "GLP - G",
+    "precio": 7.99,
+    "unidad": "Galones"
+   }
+  ]
+ },
+ {
+  "codigo_osinerg": "9515",
+  "razon_social": "SERVICENTRO SHALOM S.A.C.",
+  "actividad": "EE.SS con GLP y GNV",
+  "ubicacion": {
+   "departamento": "LIMA",
+   "provincia": "LIMA",
+   "distrito": "LIMA",
+   "direccion": "AV. NACIONES UNIDAS 1222 MZ. K URB. SAN RAFAEL"
+  },
+  "fecha_reporte": "2026-08-08",
+  "productos": [
+   {
+    "nombre": "DIESEL B5 S-50 UV",
+    "precio": 23.49,
+    "unidad": "Galones"
+   },
+   {
+    "nombre": "GAS NATURAL VEHICULAR COMPRIMIDO",
+    "precio": 1.65,
+    "unidad": "Metros Cúbicos"
+   },
+   {
+    "nombre": "GASOHOL PREMIUM",
+    "precio": 19.59,
+    "unidad": "Galones"
+   },
+   {
+    "nombre": "GASOHOL REGULAR",
+    "precio": 18.59,
+    "unidad": "Galones"
+   },
+   {
+    "nombre": "GLP - G",
+    "precio": 7.49,
+    "unidad": "Galones"
+   }
+  ]
+ },
+ {
+  "codigo_osinerg": "36832",
+  "razon_social": "VAL TRADING S.A.C.",
+  "actividad": "ESTACIÓN DE SERVICIOS / GRIFOS",
+  "ubicacion": {
+   "departamento": "LIMA",
+   "provincia": "LIMA",
+   "distrito": "LIMA",
+   "direccion": "AV. SEBASTIAN LORENTE N° 698"
+  },
+  "fecha_reporte": "2026-08-07",
+  "productos": [
+   {
+    "nombre": "DIESEL B5 S-50 UV",
+    "precio": 23.49,
+    "unidad": "Galones"
+   },
+   {
+    "nombre": "GASOHOL PREMIUM",
+    "precio": 19.49,
+    "unidad": "Galones"
+   },
+   {
+    "nombre": "GASOHOL REGULAR",
+    "precio": 18.19,
+    "unidad": "Galones"
+   }
+  ]
+ }
+]
