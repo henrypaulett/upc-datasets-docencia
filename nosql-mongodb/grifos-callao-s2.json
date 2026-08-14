@@ -1,0 +1,2575 @@
+[
+  {
+    "codigo_osinerg": "105356",
+    "razon_social": "MULTISERVIS LAS LOMAS E.I.R.L",
+    "actividad": "ESTACIÓN DE SERVICIO CON GASOCENTRO DE GLP",
+    "ubicacion": {
+      "departamento": "PROV. CONST. DEL CALLAO",
+      "provincia": "PROV. CONST. DEL CALLAO",
+      "distrito": "VENTANILLA",
+      "direccion": "AV. 200 ESQUINA CON CALLE S/N, MZ. A, LOTE 21 - PARQUE INDUSTRIAL PACHACUTEC"
+    },
+    "fecha_reporte": "2026-08-08",
+    "productos": [
+      {
+        "nombre": "DIESEL B5 S-50 UV",
+        "precio": 22.5,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL PREMIUM",
+        "precio": 19.88,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL REGULAR",
+        "precio": 18.69,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GLP - G",
+        "precio": 6.65,
+        "unidad": "Galones"
+      }
+    ]
+  },
+  {
+    "codigo_osinerg": "105730",
+    "razon_social": "SIRCON ENERGY EIRL",
+    "actividad": "ESTACIÓN DE SERVICIO CON GASOCENTRO DE GLP",
+    "ubicacion": {
+      "departamento": "PROV. CONST. DEL CALLAO",
+      "provincia": "PROV. CONST. DEL CALLAO",
+      "distrito": "VENTANILLA",
+      "direccion": "AV. NESTOR GAMBETA KM. 6.5"
+    },
+    "fecha_reporte": "2026-08-09",
+    "productos": [
+      {
+        "nombre": "DIESEL B5 S-50 UV",
+        "precio": 22.4,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL PREMIUM",
+        "precio": 19.7,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL REGULAR",
+        "precio": 19.2,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GLP - G",
+        "precio": 6.89,
+        "unidad": "Galones"
+      }
+    ]
+  },
+  {
+    "codigo_osinerg": "106020",
+    "razon_social": "ESTACION DE SERVICIOS FECASA S.A.C.",
+    "actividad": "ESTACIÓN DE SERVICIOS / GRIFOS",
+    "ubicacion": {
+      "departamento": "PROV. CONST. DEL CALLAO",
+      "provincia": "PROV. CONST. DEL CALLAO",
+      "distrito": "CALLAO",
+      "direccion": "ESQUINA AV. 200 CON CALLE 32 MZ K, LOTE 1 Y 26, ASENTAMIENTO HUMANO JAIME JOSHIYAMA."
+    },
+    "fecha_reporte": "2026-08-08",
+    "productos": [
+      {
+        "nombre": "DIESEL B5 S-50 UV",
+        "precio": 22.49,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL PREMIUM",
+        "precio": 19.19,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL REGULAR",
+        "precio": 17.99,
+        "unidad": "Galones"
+      }
+    ]
+  },
+  {
+    "codigo_osinerg": "116752",
+    "razon_social": "SERVICENTRO BIZARRO",
+    "actividad": "ESTACIÓN DE SERVICIOS / GRIFOS",
+    "ubicacion": {
+      "departamento": "PROV. CONST. DEL CALLAO",
+      "provincia": "PROV. CONST. DEL CALLAO",
+      "distrito": "VENTANILLA",
+      "direccion": "AV. 200 Y AV. 150 IZQUIERDA, MZ. L¿2 LOTE 4, GRUPO RESIDENCIAL B4 SECTOR B PROYECTO PILOTO NUEVO PACHACUTEC"
+    },
+    "fecha_reporte": "2026-08-08",
+    "productos": [
+      {
+        "nombre": "DIESEL B5 S-50 UV",
+        "precio": 22.39,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL PREMIUM",
+        "precio": 19.2,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL REGULAR",
+        "precio": 18.4,
+        "unidad": "Galones"
+      }
+    ]
+  },
+  {
+    "codigo_osinerg": "117443",
+    "razon_social": "ENERGIGAS S.A.C.",
+    "actividad": "EE.SS con GLP y GNV",
+    "ubicacion": {
+      "departamento": "PROV. CONST. DEL CALLAO",
+      "provincia": "PROV. CONST. DEL CALLAO",
+      "distrito": "CALLAO",
+      "direccion": "AV. GUARDIA CHALACA MZ. 24 LOTE 17, ESQUINA CON AV. SAENZ PEÑA, URB. SANTA MARIA"
+    },
+    "fecha_reporte": "2026-08-09",
+    "productos": [
+      {
+        "nombre": "DIESEL B5 S-50 UV",
+        "precio": 23.95,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GAS NATURAL VEHICULAR COMPRIMIDO",
+        "precio": 1.99,
+        "unidad": "Metros Cúbicos"
+      },
+      {
+        "nombre": "GASOHOL PREMIUM",
+        "precio": 18.99,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL REGULAR",
+        "precio": 17.95,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GLP - G",
+        "precio": 6.77,
+        "unidad": "Galones"
+      }
+    ]
+  },
+  {
+    "codigo_osinerg": "118132",
+    "razon_social": "MARITIMA PETROLINE S.A.C. ",
+    "actividad": "GRIFOS FLOTANTES",
+    "ubicacion": {
+      "departamento": "PROV. CONST. DEL CALLAO",
+      "provincia": "PROV. CONST. DEL CALLAO",
+      "distrito": "CALLAO",
+      "direccion": "BAHIA DEL CALLAO"
+    },
+    "fecha_reporte": "2026-08-03",
+    "productos": [
+      {
+        "nombre": "DIESEL B5 S-50 UV",
+        "precio": 24.0,
+        "unidad": "Galones"
+      }
+    ]
+  },
+  {
+    "codigo_osinerg": "124175",
+    "razon_social": "ESTACION DE SERVICIO NONATO",
+    "actividad": "ESTACIÓN DE SERVICIOS / GRIFOS",
+    "ubicacion": {
+      "departamento": "PROV. CONST. DEL CALLAO",
+      "provincia": "PROV. CONST. DEL CALLAO",
+      "distrito": "VENTANILLA",
+      "direccion": "AV. LOS ARQUITECTOS S/N MZ A LOTES 10-12 SECTOR G BARRIO XV GRUPO RESIDENCIAL 4, PROYECTO ESPECIAL PACHACUTEC"
+    },
+    "fecha_reporte": "2026-08-08",
+    "productos": [
+      {
+        "nombre": "DIESEL B5 S-50 UV",
+        "precio": 22.4,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL PREMIUM",
+        "precio": 19.7,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL REGULAR",
+        "precio": 19.2,
+        "unidad": "Galones"
+      }
+    ]
+  },
+  {
+    "codigo_osinerg": "137892",
+    "razon_social": "SERVICENTRO ENERGI PERU J & N S.A.C.",
+    "actividad": "ESTACIÓN DE SERVICIO CON GASOCENTRO DE GLP",
+    "ubicacion": {
+      "departamento": "PROV. CONST. DEL CALLAO",
+      "provincia": "PROV. CONST. DEL CALLAO",
+      "distrito": "CALLAO",
+      "direccion": "AV. LOS ALISOS, ESQUINA CON AV. MANUEL MUJICA GALLO LT 1A, 1, 2, 3, 4, 5 Y 36 MZ. A, PROGRAMA DE VIVIENDA Y COMERCIO RESIDENCIAL EL ROSARIO"
+    },
+    "fecha_reporte": "2026-08-05",
+    "productos": [
+      {
+        "nombre": "DIESEL B5 S-50 UV",
+        "precio": 23.56,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL PREMIUM",
+        "precio": 20.05,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL REGULAR",
+        "precio": 18.89,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GLP - G",
+        "precio": 6.99,
+        "unidad": "Galones"
+      }
+    ]
+  },
+  {
+    "codigo_osinerg": "138446",
+    "razon_social": "GRIFOS Y TRANSPORTES VENEZUELA S.A.C.",
+    "actividad": "ESTACIÓN DE SERVICIOS / GRIFOS",
+    "ubicacion": {
+      "departamento": "PROV. CONST. DEL CALLAO",
+      "provincia": "PROV. CONST. DEL CALLAO",
+      "distrito": "VENTANILLA",
+      "direccion": "ASOC. DE VIVIENDA CASA TALLER SANTA MARGARITA MZ L LOTE 3, 4, 5-A"
+    },
+    "fecha_reporte": "2026-08-07",
+    "productos": [
+      {
+        "nombre": "DIESEL B5 S-50 UV",
+        "precio": 22.85,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL PREMIUM",
+        "precio": 20.38,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL REGULAR",
+        "precio": 18.89,
+        "unidad": "Galones"
+      }
+    ]
+  },
+  {
+    "codigo_osinerg": "145111",
+    "razon_social": "ENERGEO S.A.C.",
+    "actividad": "GASOCENTROS DE GLP",
+    "ubicacion": {
+      "departamento": "PROV. CONST. DEL CALLAO",
+      "provincia": "PROV. CONST. DEL CALLAO",
+      "distrito": "VENTANILLA",
+      "direccion": "ASOCIACION DE VIVIENDA CASA TALLER SANTA MARGARITA MZ L LTS 3,4 Y 5-A"
+    },
+    "fecha_reporte": "2026-08-08",
+    "productos": [
+      {
+        "nombre": "GLP - G",
+        "precio": 6.64,
+        "unidad": "Galones"
+      }
+    ]
+  },
+  {
+    "codigo_osinerg": "14583",
+    "razon_social": "REPSOL COMERCIAL S.A.C.",
+    "actividad": "ESTACIÓN DE SERVICIOS / GRIFOS",
+    "ubicacion": {
+      "departamento": "PROV. CONST. DEL CALLAO",
+      "provincia": "PROV. CONST. DEL CALLAO",
+      "distrito": "BELLAVISTA",
+      "direccion": "INTERSECCION DE AV. OSCAR R. BENAVIDES N° 4600 Y AV. SAN JOSE URB. SAN JOSE"
+    },
+    "fecha_reporte": "2026-08-09",
+    "productos": [
+      {
+        "nombre": "DIESEL B5 S-50 UV",
+        "precio": 26.49,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL PREMIUM",
+        "precio": 20.99,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL REGULAR",
+        "precio": 19.99,
+        "unidad": "Galones"
+      }
+    ]
+  },
+  {
+    "codigo_osinerg": "147378",
+    "razon_social": "COESTI SA",
+    "actividad": "ESTACIÓN DE SERVICIO CON GASOCENTRO DE GLP",
+    "ubicacion": {
+      "departamento": "PROV. CONST. DEL CALLAO",
+      "provincia": "PROV. CONST. DEL CALLAO",
+      "distrito": "CALLAO",
+      "direccion": "AV. NESTOR GAMBETTA Y AV. LOS ALISOS MZ. A LOTES 06 Y 07 SECCION C PARCELA 2, EX FUNDO OQUENDO KM 8.5 CARRETERA A VENTANILLA"
+    },
+    "fecha_reporte": "2026-08-09",
+    "productos": [
+      {
+        "nombre": "DIESEL B5 S-50 UV",
+        "precio": 24.99,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL PREMIUM",
+        "precio": 19.49,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL REGULAR",
+        "precio": 17.99,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GLP - G",
+        "precio": 6.65,
+        "unidad": "Galones"
+      }
+    ]
+  },
+  {
+    "codigo_osinerg": "150207",
+    "razon_social": "REPSOL COMERCIAL S.A.C.",
+    "actividad": "ESTACIÓN DE SERVICIOS / GRIFOS",
+    "ubicacion": {
+      "departamento": "PROV. CONST. DEL CALLAO",
+      "provincia": "PROV. CONST. DEL CALLAO",
+      "distrito": "VENTANILLA",
+      "direccion": "AUTOPISTA HACIA VENTANILLA (AV. NESTOR GAMBETTA), SUB PARCELA A6-2B-1"
+    },
+    "fecha_reporte": "2026-08-09",
+    "productos": [
+      {
+        "nombre": "DIESEL B5 S-50 UV",
+        "precio": 26.49,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL PREMIUM",
+        "precio": 22.99,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL REGULAR",
+        "precio": 20.49,
+        "unidad": "Galones"
+      }
+    ]
+  },
+  {
+    "codigo_osinerg": "15211",
+    "razon_social": "REPSOL COMERCIAL S.A.C",
+    "actividad": "ESTACIÓN DE SERVICIOS / GRIFOS",
+    "ubicacion": {
+      "departamento": "PROV. CONST. DEL CALLAO",
+      "provincia": "PROV. CONST. DEL CALLAO",
+      "distrito": "CALLAO",
+      "direccion": "AV. TOMAS VALLE, ESQ. CON AV. LOS DOMINICOS - URB. JORGE CHAVEZ"
+    },
+    "fecha_reporte": "2026-08-09",
+    "productos": [
+      {
+        "nombre": "DIESEL B5 S-50 UV",
+        "precio": 26.49,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL PREMIUM",
+        "precio": 20.99,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL REGULAR",
+        "precio": 19.99,
+        "unidad": "Galones"
+      }
+    ]
+  },
+  {
+    "codigo_osinerg": "15725",
+    "razon_social": "COESTI SA",
+    "actividad": "EE.SS con GLP y GNV",
+    "ubicacion": {
+      "departamento": "PROV. CONST. DEL CALLAO",
+      "provincia": "PROV. CONST. DEL CALLAO",
+      "distrito": "LA PERLA",
+      "direccion": "AV. LA PAZ N° 2326"
+    },
+    "fecha_reporte": "2026-08-08",
+    "productos": [
+      {
+        "nombre": "DIESEL B5 S-50 UV",
+        "precio": 25.39,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GAS NATURAL VEHICULAR COMPRIMIDO",
+        "precio": 1.76,
+        "unidad": "Metros Cúbicos"
+      },
+      {
+        "nombre": "GASOHOL PREMIUM",
+        "precio": 21.79,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL REGULAR",
+        "precio": 19.99,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GLP - G",
+        "precio": 7.45,
+        "unidad": "Galones"
+      }
+    ]
+  },
+  {
+    "codigo_osinerg": "15727",
+    "razon_social": "SERVICENTRO TOKIO E.I.R.L.",
+    "actividad": "ESTACIÓN DE SERVICIOS / GRIFOS",
+    "ubicacion": {
+      "departamento": "PROV. CONST. DEL CALLAO",
+      "provincia": "PROV. CONST. DEL CALLAO",
+      "distrito": "BELLAVISTA",
+      "direccion": "ESQ. AV. GUARDIA CHALACA Y AV. SAENZ PEÑA N° 1513 - 1531"
+    },
+    "fecha_reporte": "2026-08-08",
+    "productos": [
+      {
+        "nombre": "DIESEL B5 S-50 UV",
+        "precio": 22.3,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL PREMIUM",
+        "precio": 19.39,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL REGULAR",
+        "precio": 18.28,
+        "unidad": "Galones"
+      }
+    ]
+  },
+  {
+    "codigo_osinerg": "158979",
+    "razon_social": "COESTI S.A.",
+    "actividad": "ESTACIÓN DE SERVICIO CON GASOCENTRO DE GLP",
+    "ubicacion": {
+      "departamento": "PROV. CONST. DEL CALLAO",
+      "provincia": "PROV. CONST. DEL CALLAO",
+      "distrito": "CALLAO",
+      "direccion": "AV. NÉSTOR GAMBETTA ESQUINA CALLE Nº 01 MZ A LOTES 01 Y 02 PROGRAMA DE VIVIENDA ACUARIO"
+    },
+    "fecha_reporte": "2026-08-09",
+    "productos": [
+      {
+        "nombre": "DIESEL B5 S-50 UV",
+        "precio": 24.99,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL PREMIUM",
+        "precio": 19.49,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL REGULAR",
+        "precio": 17.99,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GLP - G",
+        "precio": 6.65,
+        "unidad": "Galones"
+      }
+    ]
+  },
+  {
+    "codigo_osinerg": "160918",
+    "razon_social": "VIRTUAL GAS S.A.C.",
+    "actividad": "EE.SS con GLP y GNV",
+    "ubicacion": {
+      "departamento": "PROV. CONST. DEL CALLAO",
+      "provincia": "PROV. CONST. DEL CALLAO",
+      "distrito": "VENTANILLA",
+      "direccion": "CALLE ALONSO DE MOLINA 279, MZ. I-14 LT. 1 - ZONA INDUSTRIAL VENTANILLA"
+    },
+    "fecha_reporte": "2026-08-08",
+    "productos": [
+      {
+        "nombre": "DIESEL B5 S-50 UV",
+        "precio": 22.89,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GAS NATURAL VEHICULAR COMPRIMIDO",
+        "precio": 1.9,
+        "unidad": "Metros Cúbicos"
+      },
+      {
+        "nombre": "GASOHOL PREMIUM",
+        "precio": 20.39,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL REGULAR",
+        "precio": 19.39,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GLP - G",
+        "precio": 6.74,
+        "unidad": "Galones"
+      }
+    ]
+  },
+  {
+    "codigo_osinerg": "160967",
+    "razon_social": "MAXITRUCK PERU S.A.C.",
+    "actividad": "ESTACIÓN DE SERVICIO CON GASOCENTRO DE GLP",
+    "ubicacion": {
+      "departamento": "PROV. CONST. DEL CALLAO",
+      "provincia": "PROV. CONST. DEL CALLAO",
+      "distrito": "VENTANILLA",
+      "direccion": "URBANIZACIÓN POPULAR DE INTERÉS SOCIAL PROYECTO ESPECIAL CIUDAD PACHACUTEC MZH LOTES 1 Y 20, SECTOR F, BARRIO XIII"
+    },
+    "fecha_reporte": "2026-08-04",
+    "productos": [
+      {
+        "nombre": "DIESEL B5 S-50 UV",
+        "precio": 22.79,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL PREMIUM",
+        "precio": 19.79,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL REGULAR",
+        "precio": 18.69,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GLP - G",
+        "precio": 6.65,
+        "unidad": "Galones"
+      }
+    ]
+  },
+  {
+    "codigo_osinerg": "16100",
+    "razon_social": "PETRONEX PERU SOCIEDAD ANONIMA CERRADA",
+    "actividad": "ESTACIÓN DE SERVICIO CON GASOCENTRO DE GLP",
+    "ubicacion": {
+      "departamento": "PROV. CONST. DEL CALLAO",
+      "provincia": "PROV. CONST. DEL CALLAO",
+      "distrito": "CALLAO",
+      "direccion": "AV. TOMAS VALLE INTERSECCIÓN CON AV. PACASMAYO, MZ. C LOTE 1 Y 24 URB. JORGE CHÁVEZ"
+    },
+    "fecha_reporte": "2026-08-09",
+    "productos": [
+      {
+        "nombre": "DIESEL B5 S-50 UV",
+        "precio": 23.89,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL PREMIUM",
+        "precio": 20.69,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL REGULAR",
+        "precio": 19.19,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GLP - G",
+        "precio": 6.99,
+        "unidad": "Galones"
+      }
+    ]
+  },
+  {
+    "codigo_osinerg": "162494",
+    "razon_social": "INVERSIONES PDP S.A.C.",
+    "actividad": "ESTACIÓN DE SERVICIO CON GASOCENTRO DE GLP",
+    "ubicacion": {
+      "departamento": "PROV. CONST. DEL CALLAO",
+      "provincia": "PROV. CONST. DEL CALLAO",
+      "distrito": "VENTANILLA",
+      "direccion": "PROYECTO PILOTO NUEVO PACHACUTEC MZ. K1 LOTE 5A GRUPO RESIDENCIAL B4, SECTOR B"
+    },
+    "fecha_reporte": "2026-08-08",
+    "productos": [
+      {
+        "nombre": "DIESEL B5 S-50 UV",
+        "precio": 22.3,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL PREMIUM",
+        "precio": 20.6,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL REGULAR",
+        "precio": 20.2,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GLP - G",
+        "precio": 6.7,
+        "unidad": "Galones"
+      }
+    ]
+  },
+  {
+    "codigo_osinerg": "16631",
+    "razon_social": "SERVICENTRO LA PAMPILLA SOCIEDAD COMERCIAL DE RESPONSABILIDAD LIMITADA-SERVICENTRO LA PAMPILLA S.R.L",
+    "actividad": "EE.SS con GLP y GNV",
+    "ubicacion": {
+      "departamento": "PROV. CONST. DEL CALLAO",
+      "provincia": "PROV. CONST. DEL CALLAO",
+      "distrito": "CALLAO",
+      "direccion": "AV. NESTOR GAMBETA, ESQUINA CALLE N° 6, SUB LOTE 01, URB. INDUSTRIAL OQUENDO"
+    },
+    "fecha_reporte": "2026-08-08",
+    "productos": [
+      {
+        "nombre": "DIESEL B5 S-50 UV",
+        "precio": 26.39,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GAS NATURAL VEHICULAR COMPRIMIDO",
+        "precio": 1.75,
+        "unidad": "Metros Cúbicos"
+      },
+      {
+        "nombre": "GASOHOL PREMIUM",
+        "precio": 20.49,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL REGULAR",
+        "precio": 18.49,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GLP - G",
+        "precio": 7.45,
+        "unidad": "Galones"
+      }
+    ]
+  },
+  {
+    "codigo_osinerg": "16636",
+    "razon_social": "REPSOL COMERCIAL S.A.C.",
+    "actividad": "EE.SS con GLP y GNV",
+    "ubicacion": {
+      "departamento": "PROV. CONST. DEL CALLAO",
+      "provincia": "PROV. CONST. DEL CALLAO",
+      "distrito": "CALLAO",
+      "direccion": "AV. ELMER FAUCETT 6000 Y ESQUINA CON NESTOR GAMBETA S/N"
+    },
+    "fecha_reporte": "2026-08-08",
+    "productos": [
+      {
+        "nombre": "DIESEL B5 S-50 UV",
+        "precio": 26.49,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GAS NATURAL VEHICULAR COMPRIMIDO",
+        "precio": 1.89,
+        "unidad": "Metros Cúbicos"
+      },
+      {
+        "nombre": "GASOHOL PREMIUM",
+        "precio": 24.99,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL REGULAR",
+        "precio": 22.99,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GLP - G",
+        "precio": 7.99,
+        "unidad": "Galones"
+      }
+    ]
+  },
+  {
+    "codigo_osinerg": "16712",
+    "razon_social": "INVERSIONES BJL S.A.C.",
+    "actividad": "ESTACIÓN DE SERVICIOS / GRIFOS",
+    "ubicacion": {
+      "departamento": "PROV. CONST. DEL CALLAO",
+      "provincia": "PROV. CONST. DEL CALLAO",
+      "distrito": "BELLAVISTA",
+      "direccion": "AV. JOSE GALVEZ N° 501"
+    },
+    "fecha_reporte": "2026-08-08",
+    "productos": [
+      {
+        "nombre": "DIESEL B5 S-50 UV",
+        "precio": 22.6,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL PREMIUM",
+        "precio": 20.8,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL REGULAR",
+        "precio": 20.4,
+        "unidad": "Galones"
+      }
+    ]
+  },
+  {
+    "codigo_osinerg": "167244",
+    "razon_social": "SIRCON PACHACUTEC E.I.R.L.",
+    "actividad": "ESTACIÓN DE SERVICIO CON GASOCENTRO DE GLP",
+    "ubicacion": {
+      "departamento": "PROV. CONST. DEL CALLAO",
+      "provincia": "PROV. CONST. DEL CALLAO",
+      "distrito": "VENTANILLA",
+      "direccion": "AV. G (AV. 200) ESQ. CON CALLE 19 Y CALLE 20 PROYECTO PILOTO NUEVO PACHACUTEC"
+    },
+    "fecha_reporte": "2026-08-08",
+    "productos": [
+      {
+        "nombre": "DIESEL B5 S-50 UV",
+        "precio": 22.4,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL PREMIUM",
+        "precio": 19.7,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL REGULAR",
+        "precio": 19.2,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GLP - G",
+        "precio": 6.7,
+        "unidad": "Galones"
+      }
+    ]
+  },
+  {
+    "codigo_osinerg": "167778",
+    "razon_social": "ESTACION DE SERVICIOS EL PLEBEYO E.I.R.L.",
+    "actividad": "GASOCENTRO DE GLP CON ESTABLECIMIENTO DE VENTA AL PUBLICO DE GNV",
+    "ubicacion": {
+      "departamento": "PROV. CONST. DEL CALLAO",
+      "provincia": "PROV. CONST. DEL CALLAO",
+      "distrito": "CALLAO",
+      "direccion": "AV. ELMER FAUCETT N° 5395"
+    },
+    "fecha_reporte": "2026-07-30",
+    "productos": [
+      {
+        "nombre": "GAS NATURAL VEHICULAR COMPRIMIDO",
+        "precio": 1.79,
+        "unidad": "Metros Cúbicos"
+      },
+      {
+        "nombre": "GLP - G",
+        "precio": 7.39,
+        "unidad": "Galones"
+      }
+    ]
+  },
+  {
+    "codigo_osinerg": "167836",
+    "razon_social": "CELESTE 2 S.A.C.",
+    "actividad": "ESTACIÓN DE SERVICIOS / GRIFOS",
+    "ubicacion": {
+      "departamento": "PROV. CONST. DEL CALLAO",
+      "provincia": "PROV. CONST. DEL CALLAO",
+      "distrito": "VENTANILLA",
+      "direccion": "AV. CENTRAL MZ 43 LT. D URB. PARQUE INDUSTRIAL PORCINO"
+    },
+    "fecha_reporte": "2026-08-08",
+    "productos": [
+      {
+        "nombre": "DIESEL B5 S-50 UV",
+        "precio": 21.99,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL PREMIUM",
+        "precio": 19.75,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL REGULAR",
+        "precio": 18.77,
+        "unidad": "Galones"
+      }
+    ]
+  },
+  {
+    "codigo_osinerg": "171382",
+    "razon_social": "COESTI S.A.",
+    "actividad": "ESTACIÓN DE SERVICIOS / GRIFOS",
+    "ubicacion": {
+      "departamento": "PROV. CONST. DEL CALLAO",
+      "provincia": "PROV. CONST. DEL CALLAO",
+      "distrito": "CALLAO",
+      "direccion": "MZ D. LOTE 1, URB. PROGRESIVA LAS ORQUIDEAS II ETAPA"
+    },
+    "fecha_reporte": "2026-08-09",
+    "productos": [
+      {
+        "nombre": "DIESEL B5 S-50 UV",
+        "precio": 24.99,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL PREMIUM",
+        "precio": 19.49,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL REGULAR",
+        "precio": 17.99,
+        "unidad": "Galones"
+      }
+    ]
+  },
+  {
+    "codigo_osinerg": "171680",
+    "razon_social": "COESTI S.A.",
+    "actividad": "ESTACIÓN DE SERVICIO CON GASOCENTRO DE GLP",
+    "ubicacion": {
+      "departamento": "PROV. CONST. DEL CALLAO",
+      "provincia": "PROV. CONST. DEL CALLAO",
+      "distrito": "VENTANILLA",
+      "direccion": "PARCELA A ALTURA KM 8 DE LA CARRETERA CALLAO - VENTANILLA"
+    },
+    "fecha_reporte": "2026-08-08",
+    "productos": [
+      {
+        "nombre": "DIESEL B5 S-50 UV",
+        "precio": 24.99,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL PREMIUM",
+        "precio": 20.49,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL REGULAR",
+        "precio": 19.49,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GLP - G",
+        "precio": 7.09,
+        "unidad": "Galones"
+      }
+    ]
+  },
+  {
+    "codigo_osinerg": "174638",
+    "razon_social": "MAXITRUCK PERU S.A.C.",
+    "actividad": "ESTACIÓN DE SERVICIO CON GASOCENTRO DE GLP",
+    "ubicacion": {
+      "departamento": "PROV. CONST. DEL CALLAO",
+      "provincia": "PROV. CONST. DEL CALLAO",
+      "distrito": "VENTANILLA",
+      "direccion": "URB. POPULAR DE INTERES SOCIAL PARCELA MINI PARQUE INDUSTRIAL CERRO CACHITO MZ B LOTE 7"
+    },
+    "fecha_reporte": "2026-08-08",
+    "productos": [
+      {
+        "nombre": "DIESEL B5 S-50 UV",
+        "precio": 22.29,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL PREMIUM",
+        "precio": 19.49,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL REGULAR",
+        "precio": 18.29,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GLP - G",
+        "precio": 6.5,
+        "unidad": "Galones"
+      }
+    ]
+  },
+  {
+    "codigo_osinerg": "177262",
+    "razon_social": "ONCAP S.A.C.",
+    "actividad": "ESTACIÓN DE SERVICIO CON GASOCENTRO DE GLP",
+    "ubicacion": {
+      "departamento": "PROV. CONST. DEL CALLAO",
+      "provincia": "PROV. CONST. DEL CALLAO",
+      "distrito": "CALLAO",
+      "direccion": "AV. REPUBLICA DE ARGENTINA MZ. K, LT. N° 1 Y N° 2  URBANIZACION INDUSTRIAL LA CHALACA"
+    },
+    "fecha_reporte": "2026-08-09",
+    "productos": [
+      {
+        "nombre": "DIESEL B5 S-50 UV",
+        "precio": 23.89,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL PREMIUM",
+        "precio": 21.99,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL REGULAR",
+        "precio": 19.99,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GLP - G",
+        "precio": 6.68,
+        "unidad": "Galones"
+      }
+    ]
+  },
+  {
+    "codigo_osinerg": "17857",
+    "razon_social": "CORPORACION DE SERVICIOS  LAS LOMAS S.A.C",
+    "actividad": "ESTACIÓN DE SERVICIOS / GRIFOS",
+    "ubicacion": {
+      "departamento": "PROV. CONST. DEL CALLAO",
+      "provincia": "PROV. CONST. DEL CALLAO",
+      "distrito": "VENTANILLA",
+      "direccion": "AV. C, MZ. IV, LOTE 01, AA.HH. ASOCIACION DE POBLADORES DE VENTANILLA ALTA"
+    },
+    "fecha_reporte": "2026-08-07",
+    "productos": [
+      {
+        "nombre": "DIESEL B5 S-50 UV",
+        "precio": 22.59,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL REGULAR",
+        "precio": 19.29,
+        "unidad": "Galones"
+      }
+    ]
+  },
+  {
+    "codigo_osinerg": "18345",
+    "razon_social": "ESTACION DE SERVICIOS AEROPUERTO S.R.L.",
+    "actividad": "ESTACIÓN DE SERVICIO CON GASOCENTRO DE GLP",
+    "ubicacion": {
+      "departamento": "PROV. CONST. DEL CALLAO",
+      "provincia": "PROV. CONST. DEL CALLAO",
+      "distrito": "CALLAO",
+      "direccion": "AV. ELMER FAUCETT ESQUINA CON AV. TOMAS VALLE S/N"
+    },
+    "fecha_reporte": "2026-08-08",
+    "productos": [
+      {
+        "nombre": "DIESEL B5 S-50 UV",
+        "precio": 23.1,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL PREMIUM",
+        "precio": 20.9,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL REGULAR",
+        "precio": 20.1,
+        "unidad": "Galones"
+      }
+    ]
+  },
+  {
+    "codigo_osinerg": "18413",
+    "razon_social": "GRIFO ESCORPIO S.R.L.",
+    "actividad": "ESTACIÓN DE SERVICIOS / GRIFOS",
+    "ubicacion": {
+      "departamento": "PROV. CONST. DEL CALLAO",
+      "provincia": "PROV. CONST. DEL CALLAO",
+      "distrito": "CALLAO",
+      "direccion": "CRUCE AV. TOMAS VALLE Y ELMER FAUCETT"
+    },
+    "fecha_reporte": "2026-08-08",
+    "productos": [
+      {
+        "nombre": "DIESEL B5 S-50 UV",
+        "precio": 23.2,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL PREMIUM",
+        "precio": 20.7,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL REGULAR",
+        "precio": 19.8,
+        "unidad": "Galones"
+      }
+    ]
+  },
+  {
+    "codigo_osinerg": "18553",
+    "razon_social": "REPSOL COMERCIAL SAC",
+    "actividad": "ESTACIÓN DE SERVICIO CON GASOCENTRO DE GLP",
+    "ubicacion": {
+      "departamento": "PROV. CONST. DEL CALLAO",
+      "provincia": "PROV. CONST. DEL CALLAO",
+      "distrito": "CARMEN DE LA LEGUA REYNOSO",
+      "direccion": "AV. ELMER FAUCETT N° 377"
+    },
+    "fecha_reporte": "2026-08-09",
+    "productos": [
+      {
+        "nombre": "DIESEL B5 S-50 UV",
+        "precio": 26.49,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL PREMIUM",
+        "precio": 20.99,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL REGULAR",
+        "precio": 19.99,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GLP - G",
+        "precio": 7.69,
+        "unidad": "Galones"
+      }
+    ]
+  },
+  {
+    "codigo_osinerg": "18569",
+    "razon_social": "AGUKI COMBUSTIBLES LIQUIDOS S.A.                                   ",
+    "actividad": "ESTACIÓN DE SERVICIOS / GRIFOS",
+    "ubicacion": {
+      "departamento": "PROV. CONST. DEL CALLAO",
+      "provincia": "PROV. CONST. DEL CALLAO",
+      "distrito": "CALLAO",
+      "direccion": "AV. ELMER FAUCETT Nº 5482"
+    },
+    "fecha_reporte": "2026-08-08",
+    "productos": [
+      {
+        "nombre": "DIESEL B5 S-50 UV",
+        "precio": 22.49,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL PREMIUM",
+        "precio": 19.99,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL REGULAR",
+        "precio": 17.99,
+        "unidad": "Galones"
+      }
+    ]
+  },
+  {
+    "codigo_osinerg": "19933",
+    "razon_social": "MULTISERVICIOS ECOGAS S.A.C.",
+    "actividad": "ESTACIÓN DE SERVICIO CON GASOCENTRO DE GLP",
+    "ubicacion": {
+      "departamento": "PROV. CONST. DEL CALLAO",
+      "provincia": "PROV. CONST. DEL CALLAO",
+      "distrito": "CALLAO",
+      "direccion": "ESQ. AV. ARGENTINA CON JR. VENEZUELA"
+    },
+    "fecha_reporte": "2026-08-09",
+    "productos": [
+      {
+        "nombre": "DIESEL B5 S-50 UV",
+        "precio": 23.89,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL PREMIUM",
+        "precio": 19.99,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL REGULAR",
+        "precio": 18.29,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GLP - G",
+        "precio": 6.68,
+        "unidad": "Galones"
+      }
+    ]
+  },
+  {
+    "codigo_osinerg": "20125",
+    "razon_social": "REPSOL COMERCIAL S.A.C.",
+    "actividad": "ESTACIÓN DE SERVICIOS / GRIFOS",
+    "ubicacion": {
+      "departamento": "PROV. CONST. DEL CALLAO",
+      "provincia": "PROV. CONST. DEL CALLAO",
+      "distrito": "CALLAO",
+      "direccion": "AV. NESTOR GAMBETTA N° 115"
+    },
+    "fecha_reporte": "2026-08-09",
+    "productos": [
+      {
+        "nombre": "DIESEL B5 S-50 UV",
+        "precio": 26.49,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL PREMIUM",
+        "precio": 21.99,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL REGULAR",
+        "precio": 20.49,
+        "unidad": "Galones"
+      }
+    ]
+  },
+  {
+    "codigo_osinerg": "20980",
+    "razon_social": "SERVICENTRO CELESTE S.A. ",
+    "actividad": "ESTACIÓN DE SERVICIO CON GASOCENTRO DE GLP",
+    "ubicacion": {
+      "departamento": "PROV. CONST. DEL CALLAO",
+      "provincia": "PROV. CONST. DEL CALLAO",
+      "distrito": "CALLAO",
+      "direccion": "AV. QUILCA S/N CUADRA 11, MZ. E, LT. 29, RESIDENCIAL AEROPUERTO, ESQ. CALLE SATURNO Y NEPTUNO"
+    },
+    "fecha_reporte": "2026-08-08",
+    "productos": [
+      {
+        "nombre": "DIESEL B5 S-50 UV",
+        "precio": 23.89,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL PREMIUM",
+        "precio": 20.69,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL REGULAR",
+        "precio": 18.19,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GLP - G",
+        "precio": 7.38,
+        "unidad": "Galones"
+      }
+    ]
+  },
+  {
+    "codigo_osinerg": "21034",
+    "razon_social": "GASCORVILL  S.A.C.",
+    "actividad": "ESTACIÓN DE SERVICIOS / GRIFOS",
+    "ubicacion": {
+      "departamento": "PROV. CONST. DEL CALLAO",
+      "provincia": "PROV. CONST. DEL CALLAO",
+      "distrito": "CALLAO",
+      "direccion": "MZ. D, LTS. 3 - 4, URB. LAS COLINAS 1RA. ETAPA"
+    },
+    "fecha_reporte": "2026-08-07",
+    "productos": [
+      {
+        "nombre": "DIESEL B5 S-50 UV",
+        "precio": 23.17,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL PREMIUM",
+        "precio": 20.97,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL REGULAR",
+        "precio": 19.97,
+        "unidad": "Galones"
+      }
+    ]
+  },
+  {
+    "codigo_osinerg": "21057",
+    "razon_social": "COESTI S.A.",
+    "actividad": "ESTACIÓN DE SERVICIOS / GRIFOS",
+    "ubicacion": {
+      "departamento": "PROV. CONST. DEL CALLAO",
+      "provincia": "PROV. CONST. DEL CALLAO",
+      "distrito": "CALLAO",
+      "direccion": "AV. MARCO POLO S/N ESQ. JR. ALBERTO SECADA N* 474"
+    },
+    "fecha_reporte": "2026-08-08",
+    "productos": [
+      {
+        "nombre": "DIESEL B5 S-50 UV",
+        "precio": 24.29,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL PREMIUM",
+        "precio": 20.29,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL REGULAR",
+        "precio": 18.35,
+        "unidad": "Galones"
+      }
+    ]
+  },
+  {
+    "codigo_osinerg": "21328",
+    "razon_social": "FERMIN MEJIA MALLQUI",
+    "actividad": "ESTACIÓN DE SERVICIOS / GRIFOS",
+    "ubicacion": {
+      "departamento": "PROV. CONST. DEL CALLAO",
+      "provincia": "PROV. CONST. DEL CALLAO",
+      "distrito": "VENTANILLA",
+      "direccion": "AV. A Y CALLE 1 MZ. Q-1, LOTE 04, URBANIZACION VENTANILLA ALTA"
+    },
+    "fecha_reporte": "2026-08-06",
+    "productos": [
+      {
+        "nombre": "DIESEL B5 S-50 UV",
+        "precio": 22.9,
+        "unidad": "Galones"
+      }
+    ]
+  },
+  {
+    "codigo_osinerg": "33410",
+    "razon_social": "ESTACION DE SERVICIOS GRIFO ALAMO E.I.R.L.",
+    "actividad": "ESTACIÓN DE SERVICIO CON GASOCENTRO DE GLP",
+    "ubicacion": {
+      "departamento": "PROV. CONST. DEL CALLAO",
+      "provincia": "PROV. CONST. DEL CALLAO",
+      "distrito": "CALLAO",
+      "direccion": "AV. PACASMAYO Y AV. COLECTORA, MZ O, LOTES 16A, 21A, 22, 22A, 23, 24 Y 25 ASOCIACIÓN PRO  VIVIENDA DE LOS TRABAJADORES PUERTO CALLAO II ETAPA"
+    },
+    "fecha_reporte": "2026-08-08",
+    "productos": [
+      {
+        "nombre": "DIESEL B5 S-50 UV",
+        "precio": 23.39,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL PREMIUM",
+        "precio": 20.99,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL REGULAR",
+        "precio": 19.99,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GLP - G",
+        "precio": 6.65,
+        "unidad": "Galones"
+      }
+    ]
+  },
+  {
+    "codigo_osinerg": "38656",
+    "razon_social": "ESTACION DE SERVICIOS SAN JOSE S.A.C.",
+    "actividad": "ESTACIÓN DE SERVICIO CON GASOCENTRO DE GLP",
+    "ubicacion": {
+      "departamento": "PROV. CONST. DEL CALLAO",
+      "provincia": "PROV. CONST. DEL CALLAO",
+      "distrito": "BELLAVISTA",
+      "direccion": "AV. SAENZ PEÑA N° 1100"
+    },
+    "fecha_reporte": "2026-08-08",
+    "productos": [
+      {
+        "nombre": "DIESEL B5 S-50 UV",
+        "precio": 22.39,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL PREMIUM",
+        "precio": 19.29,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL REGULAR",
+        "precio": 18.99,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GLP - G",
+        "precio": 6.69,
+        "unidad": "Galones"
+      }
+    ]
+  },
+  {
+    "codigo_osinerg": "39855",
+    "razon_social": "INVERSIONES ELCHER S.A.C.",
+    "actividad": "ESTACIÓN DE SERVICIOS / GRIFOS",
+    "ubicacion": {
+      "departamento": "PROV. CONST. DEL CALLAO",
+      "provincia": "PROV. CONST. DEL CALLAO",
+      "distrito": "VENTANILLA",
+      "direccion": "AV. A MZ. B1 LOTE 15 AA.HH. VENTANILLA ALTA"
+    },
+    "fecha_reporte": "2026-08-08",
+    "productos": [
+      {
+        "nombre": "DIESEL B5 S-50 UV",
+        "precio": 22.3,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL REGULAR",
+        "precio": 20.2,
+        "unidad": "Galones"
+      }
+    ]
+  },
+  {
+    "codigo_osinerg": "39856",
+    "razon_social": "ESTACION 715 GAMBETA",
+    "actividad": "EE.SS con GLP y GNV",
+    "ubicacion": {
+      "departamento": "PROV. CONST. DEL CALLAO",
+      "provincia": "PROV. CONST. DEL CALLAO",
+      "distrito": "CALLAO",
+      "direccion": "AV. NÉSTOR GAMBETA KM. 7.1, MZ. B-6, LOTES 1,2,3,4,5,6,7,8,43,44,45 Y 46, ESQUINA CON CALLE BRASILIA COOP. DE VIVIENDA DE LOS TRABAJADORES DE ENAPU"
+    },
+    "fecha_reporte": "2026-08-09",
+    "productos": [
+      {
+        "nombre": "DIESEL B5 S-50 UV",
+        "precio": 22.39,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GAS NATURAL VEHICULAR COMPRIMIDO",
+        "precio": 1.73,
+        "unidad": "Metros Cúbicos"
+      },
+      {
+        "nombre": "GASOHOL PREMIUM",
+        "precio": 18.99,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL REGULAR",
+        "precio": 17.69,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GLP - G",
+        "precio": 6.59,
+        "unidad": "Galones"
+      }
+    ]
+  },
+  {
+    "codigo_osinerg": "43730",
+    "razon_social": "HFK COMBUSTIBLES S.A.C.",
+    "actividad": "EE.SS con GLP y GNV",
+    "ubicacion": {
+      "departamento": "PROV. CONST. DEL CALLAO",
+      "provincia": "PROV. CONST. DEL CALLAO",
+      "distrito": "CALLAO",
+      "direccion": "AV. NESTOR GAMBETTA S/N SUB LOTE 1 A Y SUB LOTE 1, EX FUNDO MARQUEZ (CARRETERA A VENTANILLA, KM. 14.5)"
+    },
+    "fecha_reporte": "2026-08-08",
+    "productos": [
+      {
+        "nombre": "GAS NATURAL VEHICULAR COMPRIMIDO",
+        "precio": 1.74,
+        "unidad": "Metros Cúbicos"
+      },
+      {
+        "nombre": "GASOHOL PREMIUM",
+        "precio": 19.99,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL REGULAR",
+        "precio": 18.49,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GLP - G",
+        "precio": 7.45,
+        "unidad": "Galones"
+      }
+    ]
+  },
+  {
+    "codigo_osinerg": "43786",
+    "razon_social": "BIO TALLERES S.A.C.",
+    "actividad": "ESTACIÓN DE SERVICIOS / GRIFOS",
+    "ubicacion": {
+      "departamento": "PROV. CONST. DEL CALLAO",
+      "provincia": "PROV. CONST. DEL CALLAO",
+      "distrito": "VENTANILLA",
+      "direccion": "AV. CHILLÓN, MZ. W, LOTES 1, 2, 3 Y 4, ASOCIACIÓN DE PROPIETARIOS CASA HUERTA VIRGEN DE LAS MERCEDES"
+    },
+    "fecha_reporte": "2026-08-07",
+    "productos": [
+      {
+        "nombre": "DIESEL B5 S-50 UV",
+        "precio": 23.89,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL REGULAR",
+        "precio": 19.79,
+        "unidad": "Galones"
+      }
+    ]
+  },
+  {
+    "codigo_osinerg": "44489",
+    "razon_social": "SERVICENTRO  BIZARRO  E.I.R.L.",
+    "actividad": "ESTACIÓN DE SERVICIO CON GASOCENTRO DE GLP",
+    "ubicacion": {
+      "departamento": "PROV. CONST. DEL CALLAO",
+      "provincia": "PROV. CONST. DEL CALLAO",
+      "distrito": "VENTANILLA",
+      "direccion": "ESQ. AV. LOS ARQUITECTOS Y AV. 225, MZ. A, LOTES 01, 23 Y 24. AA.HH. UPIS - CIUDAD PACHACUTEC"
+    },
+    "fecha_reporte": "2026-08-08",
+    "productos": [
+      {
+        "nombre": "DIESEL B5 S-50 UV",
+        "precio": 22.1,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL PREMIUM",
+        "precio": 20.2,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL REGULAR",
+        "precio": 19.4,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GLP - G",
+        "precio": 7.05,
+        "unidad": "Galones"
+      }
+    ]
+  },
+  {
+    "codigo_osinerg": "45029",
+    "razon_social": "ADMINISTRACION DE GRIFOS LEP S.A.C.",
+    "actividad": "ESTACIÓN DE SERVICIO CON GASOCENTRO DE GLP",
+    "ubicacion": {
+      "departamento": "PROV. CONST. DEL CALLAO",
+      "provincia": "PROV. CONST. DEL CALLAO",
+      "distrito": "CALLAO",
+      "direccion": "AV. CONTRALMIRANTE MORA N° 299, ESQUINA CON CALLE SEGUNDA, URB. CHACARITA"
+    },
+    "fecha_reporte": "2026-08-08",
+    "productos": [
+      {
+        "nombre": "DIESEL B5 S-50 UV",
+        "precio": 22.69,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL PREMIUM",
+        "precio": 19.99,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL REGULAR",
+        "precio": 17.99,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GLP - G",
+        "precio": 6.69,
+        "unidad": "Galones"
+      }
+    ]
+  },
+  {
+    "codigo_osinerg": "61014",
+    "razon_social": "INVERSIONES BJL S.A.C.",
+    "actividad": "ESTACIÓN DE SERVICIO CON GASOCENTRO DE GLP",
+    "ubicacion": {
+      "departamento": "PROV. CONST. DEL CALLAO",
+      "provincia": "PROV. CONST. DEL CALLAO",
+      "distrito": "VENTANILLA",
+      "direccion": "MZ. I-4, LOTE 05 (ESQUINA AV. PRECURSORES Y JR. LA PAMPILLA), ZONA INDUSTRIAL"
+    },
+    "fecha_reporte": "2026-08-08",
+    "productos": [
+      {
+        "nombre": "DIESEL B5 S-50 UV",
+        "precio": 22.3,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL PREMIUM",
+        "precio": 20.6,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL REGULAR",
+        "precio": 20.2,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GLP - G",
+        "precio": 6.75,
+        "unidad": "Galones"
+      }
+    ]
+  },
+  {
+    "codigo_osinerg": "62582",
+    "razon_social": "LUIS ENRIQUE BECERRA JIMENEZ",
+    "actividad": "ESTACIÓN DE SERVICIO CON GASOCENTRO DE GLP",
+    "ubicacion": {
+      "departamento": "PROV. CONST. DEL CALLAO",
+      "provincia": "PROV. CONST. DEL CALLAO",
+      "distrito": "VENTANILLA",
+      "direccion": "AV. LOS TOPOGRAFOS MZ.N LT.1 GRUPO RESIDENCIAL BARRIO XVI SECTOR H PROYECTO ESPECIAL PACHACUTEC"
+    },
+    "fecha_reporte": "2026-08-08",
+    "productos": [
+      {
+        "nombre": "DIESEL B5 S-50 UV",
+        "precio": 22.3,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL REGULAR",
+        "precio": 20.2,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GLP - G",
+        "precio": 6.7,
+        "unidad": "Galones"
+      }
+    ]
+  },
+  {
+    "codigo_osinerg": "64044",
+    "razon_social": "GRIFO ARGENTINA S.A.C.- GASAC",
+    "actividad": "EE.SS con GLP y GNV",
+    "ubicacion": {
+      "departamento": "PROV. CONST. DEL CALLAO",
+      "provincia": "PROV. CONST. DEL CALLAO",
+      "distrito": "CALLAO",
+      "direccion": "AV. ARGENTINA 3990"
+    },
+    "fecha_reporte": "2026-08-07",
+    "productos": [
+      {
+        "nombre": "GAS NATURAL VEHICULAR COMPRIMIDO",
+        "precio": 1.79,
+        "unidad": "Metros Cúbicos"
+      },
+      {
+        "nombre": "GASOHOL PREMIUM",
+        "precio": 23.29,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL REGULAR",
+        "precio": 21.79,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GLP - G",
+        "precio": 7.5,
+        "unidad": "Galones"
+      }
+    ]
+  },
+  {
+    "codigo_osinerg": "64257",
+    "razon_social": "COESTI  S.A",
+    "actividad": "EE.SS con GLP y GNV",
+    "ubicacion": {
+      "departamento": "PROV. CONST. DEL CALLAO",
+      "provincia": "PROV. CONST. DEL CALLAO",
+      "distrito": "CALLAO",
+      "direccion": "ESQ. AV. QUILCA CON CALLE 10 - URB. SAN ALFONSO SANTA IRENE, MZ. A, LT. 01 Y 02"
+    },
+    "fecha_reporte": "2026-08-09",
+    "productos": [
+      {
+        "nombre": "DIESEL B5 S-50 UV",
+        "precio": 25.49,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GAS NATURAL VEHICULAR COMPRIMIDO",
+        "precio": 1.78,
+        "unidad": "Metros Cúbicos"
+      },
+      {
+        "nombre": "GASOHOL PREMIUM",
+        "precio": 20.99,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL REGULAR",
+        "precio": 18.19,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GLP - G",
+        "precio": 7.19,
+        "unidad": "Galones"
+      }
+    ]
+  },
+  {
+    "codigo_osinerg": "64466",
+    "razon_social": "ESTACÓN DE SERVICIOS LA UNIÓN",
+    "actividad": "ESTACIÓN DE SERVICIO CON GASOCENTRO DE GLP",
+    "ubicacion": {
+      "departamento": "PROV. CONST. DEL CALLAO",
+      "provincia": "PROV. CONST. DEL CALLAO",
+      "distrito": "VENTANILLA",
+      "direccion": "AV. CAMINO DEL INCA Y LA CALLE N° 13, MZ.I, LT.9,10, 11 Y 12 SECTOR E, BARRIO X, UPIS PROYECTO ESPECIAL CIUDAD PACHACUTEC."
+    },
+    "fecha_reporte": "2026-08-08",
+    "productos": [
+      {
+        "nombre": "DIESEL B5 S-50 UV",
+        "precio": 22.39,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL PREMIUM",
+        "precio": 19.79,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL REGULAR",
+        "precio": 18.9,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GLP - G",
+        "precio": 6.5,
+        "unidad": "Galones"
+      }
+    ]
+  },
+  {
+    "codigo_osinerg": "6762",
+    "razon_social": "FLD S.A.C",
+    "actividad": "ESTACIÓN DE SERVICIOS / GRIFOS",
+    "ubicacion": {
+      "departamento": "PROV. CONST. DEL CALLAO",
+      "provincia": "PROV. CONST. DEL CALLAO",
+      "distrito": "LA PUNTA",
+      "direccion": "PLAZA GALVEZ S/N"
+    },
+    "fecha_reporte": "2026-08-07",
+    "productos": [
+      {
+        "nombre": "DIESEL B5 S-50 UV",
+        "precio": 25.99,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL PREMIUM",
+        "precio": 22.49,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL REGULAR",
+        "precio": 21.49,
+        "unidad": "Galones"
+      }
+    ]
+  },
+  {
+    "codigo_osinerg": "6768",
+    "razon_social": "ALLE ESTACIONES S.A.C.",
+    "actividad": "ESTACIÓN DE SERVICIO CON GASOCENTRO DE GLP",
+    "ubicacion": {
+      "departamento": "PROV. CONST. DEL CALLAO",
+      "provincia": "PROV. CONST. DEL CALLAO",
+      "distrito": "CALLAO",
+      "direccion": "AV. ARGENTINA N° 2045"
+    },
+    "fecha_reporte": "2026-08-07",
+    "productos": [
+      {
+        "nombre": "DIESEL B5 S-50 UV",
+        "precio": 22.33,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL PREMIUM",
+        "precio": 19.59,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GLP - G",
+        "precio": 6.68,
+        "unidad": "Galones"
+      }
+    ]
+  },
+  {
+    "codigo_osinerg": "6890",
+    "razon_social": "PETRO 2 DE MAYO S.A.C.",
+    "actividad": "ESTACIÓN DE SERVICIOS / GRIFOS",
+    "ubicacion": {
+      "departamento": "PROV. CONST. DEL CALLAO",
+      "provincia": "PROV. CONST. DEL CALLAO",
+      "distrito": "CALLAO",
+      "direccion": "AV. DOS DE MAYO Nº 285, ESQ. CON JR. SUCRE"
+    },
+    "fecha_reporte": "2026-08-07",
+    "productos": [
+      {
+        "nombre": "DIESEL B5 S-50 UV",
+        "precio": 22.3,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL PREMIUM",
+        "precio": 19.19,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL REGULAR",
+        "precio": 17.9,
+        "unidad": "Galones"
+      }
+    ]
+  },
+  {
+    "codigo_osinerg": "6913",
+    "razon_social": "GRIFO DENNIS S.A.C.",
+    "actividad": "ESTACIÓN DE SERVICIOS / GRIFOS",
+    "ubicacion": {
+      "departamento": "PROV. CONST. DEL CALLAO",
+      "provincia": "PROV. CONST. DEL CALLAO",
+      "distrito": "CALLAO",
+      "direccion": "AV. LOS DOMINICOS Y BOCANEGRA MZ. A LT. 20 URB. SESQUICENTENARIO"
+    },
+    "fecha_reporte": "2026-08-08",
+    "productos": [
+      {
+        "nombre": "DIESEL B5 S-50 UV",
+        "precio": 23.28,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL PREMIUM",
+        "precio": 20.58,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL REGULAR",
+        "precio": 19.48,
+        "unidad": "Galones"
+      }
+    ]
+  },
+  {
+    "codigo_osinerg": "7133",
+    "razon_social": "GLOBAL FUEL S.A.",
+    "actividad": "ESTACIÓN DE SERVICIO CON GASOCENTRO DE GLP",
+    "ubicacion": {
+      "departamento": "PROV. CONST. DEL CALLAO",
+      "provincia": "PROV. CONST. DEL CALLAO",
+      "distrito": "VENTANILLA",
+      "direccion": "AV. PRECURSORES N° 202 (EX CARRETERA A VENTANILLA KM. 5.5)"
+    },
+    "fecha_reporte": "2026-08-08",
+    "productos": [
+      {
+        "nombre": "DIESEL B5 S-50 UV",
+        "precio": 23.99,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL PREMIUM",
+        "precio": 24.99,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL REGULAR",
+        "precio": 22.99,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GLP - G",
+        "precio": 7.99,
+        "unidad": "Galones"
+      }
+    ]
+  },
+  {
+    "codigo_osinerg": "7166",
+    "razon_social": "GRIFO JUAN PABLO II EIRL",
+    "actividad": "ESTACIÓN DE SERVICIOS / GRIFOS",
+    "ubicacion": {
+      "departamento": "PROV. CONST. DEL CALLAO",
+      "provincia": "PROV. CONST. DEL CALLAO",
+      "distrito": "LA PERLA",
+      "direccion": "AV. LA MARINA N° 3805"
+    },
+    "fecha_reporte": "2026-08-08",
+    "productos": [
+      {
+        "nombre": "DIESEL B5 S-50 UV",
+        "precio": 23.4,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL PREMIUM",
+        "precio": 21.3,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL REGULAR",
+        "precio": 19.8,
+        "unidad": "Galones"
+      }
+    ]
+  },
+  {
+    "codigo_osinerg": "7319",
+    "razon_social": "AUTO SERVICIO LA PERLA S.A.",
+    "actividad": "ESTACIÓN DE SERVICIO CON GASOCENTRO DE GLP",
+    "ubicacion": {
+      "departamento": "PROV. CONST. DEL CALLAO",
+      "provincia": "PROV. CONST. DEL CALLAO",
+      "distrito": "LA PERLA",
+      "direccion": "AV. VENEZUELA 1050"
+    },
+    "fecha_reporte": "2026-08-08",
+    "productos": [
+      {
+        "nombre": "DIESEL B5 S-50 UV",
+        "precio": 24.2,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL PREMIUM",
+        "precio": 19.7,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL REGULAR",
+        "precio": 18.8,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GLP - G",
+        "precio": 7.45,
+        "unidad": "Galones"
+      }
+    ]
+  },
+  {
+    "codigo_osinerg": "7528",
+    "razon_social": "ESTACIÓN DE SERVICIOS GAMBETTA",
+    "actividad": "ESTACIÓN DE SERVICIOS / GRIFOS",
+    "ubicacion": {
+      "departamento": "PROV. CONST. DEL CALLAO",
+      "provincia": "PROV. CONST. DEL CALLAO",
+      "distrito": "CALLAO",
+      "direccion": "AV. NESTOR GAMBETA N° 1295"
+    },
+    "fecha_reporte": "2026-08-09",
+    "productos": [
+      {
+        "nombre": "DIESEL B5 S-50 UV",
+        "precio": 26.49,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL PREMIUM",
+        "precio": 22.49,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL REGULAR",
+        "precio": 21.49,
+        "unidad": "Galones"
+      }
+    ]
+  },
+  {
+    "codigo_osinerg": "7770",
+    "razon_social": "EDS OVALO LA PERLA",
+    "actividad": "EE.SS con GLP y GNV",
+    "ubicacion": {
+      "departamento": "PROV. CONST. DEL CALLAO",
+      "provincia": "PROV. CONST. DEL CALLAO",
+      "distrito": "LA PERLA",
+      "direccion": "AV. LA MARINA N° 115 ESQ. CON AV. SANTA ROSA N° 135"
+    },
+    "fecha_reporte": "2026-08-09",
+    "productos": [
+      {
+        "nombre": "DIESEL B5 S-50 UV",
+        "precio": 23.49,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GAS NATURAL VEHICULAR COMPRIMIDO",
+        "precio": 1.91,
+        "unidad": "Metros Cúbicos"
+      },
+      {
+        "nombre": "GASOHOL PREMIUM",
+        "precio": 20.35,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL REGULAR",
+        "precio": 18.85,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GLP - G",
+        "precio": 7.45,
+        "unidad": "Galones"
+      }
+    ]
+  },
+  {
+    "codigo_osinerg": "8003",
+    "razon_social": "REPSOL COMERCIAL S.A.C.",
+    "actividad": "ESTACIÓN DE SERVICIOS / GRIFOS",
+    "ubicacion": {
+      "departamento": "PROV. CONST. DEL CALLAO",
+      "provincia": "PROV. CONST. DEL CALLAO",
+      "distrito": "CALLAO",
+      "direccion": "AV. REPUBLICA DE ARGENTINA Nº 2920"
+    },
+    "fecha_reporte": "2026-08-09",
+    "productos": [
+      {
+        "nombre": "DIESEL B5 S-50 UV",
+        "precio": 26.49,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL PREMIUM",
+        "precio": 23.49,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL REGULAR",
+        "precio": 20.99,
+        "unidad": "Galones"
+      }
+    ]
+  },
+  {
+    "codigo_osinerg": "8958",
+    "razon_social": "GRIFO LOS PORTALES SOCIEDAD ANONIMA CERRADA",
+    "actividad": "ESTACIÓN DE SERVICIOS / GRIFOS",
+    "ubicacion": {
+      "departamento": "PROV. CONST. DEL CALLAO",
+      "provincia": "PROV. CONST. DEL CALLAO",
+      "distrito": "CALLAO",
+      "direccion": "AV. ELMER FAUCETT N° 5395"
+    },
+    "fecha_reporte": "2026-08-07",
+    "productos": [
+      {
+        "nombre": "DIESEL B5 S-50 UV",
+        "precio": 24.29,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL PREMIUM",
+        "precio": 20.19,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL REGULAR",
+        "precio": 18.79,
+        "unidad": "Galones"
+      }
+    ]
+  },
+  {
+    "codigo_osinerg": "91594",
+    "razon_social": "OCORIS 3 S.A.C.",
+    "actividad": "ESTACIÓN DE SERVICIOS / GRIFOS",
+    "ubicacion": {
+      "departamento": "PROV. CONST. DEL CALLAO",
+      "provincia": "PROV. CONST. DEL CALLAO",
+      "distrito": "CALLAO",
+      "direccion": "AV. ELMER FAUCETT 735-739"
+    },
+    "fecha_reporte": "2026-08-07",
+    "productos": [
+      {
+        "nombre": "DIESEL B5 S-50 UV",
+        "precio": 25.99,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL PREMIUM",
+        "precio": 26.49,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL REGULAR",
+        "precio": 25.85,
+        "unidad": "Galones"
+      }
+    ]
+  },
+  {
+    "codigo_osinerg": "9192",
+    "razon_social": "PROSERVICIOS INTEGRADOS EN GAS SAC",
+    "actividad": "EE.SS con GLP y GNV",
+    "ubicacion": {
+      "departamento": "PROV. CONST. DEL CALLAO",
+      "provincia": "PROV. CONST. DEL CALLAO",
+      "distrito": "VENTANILLA",
+      "direccion": "AV. NESTOR GAMBETA KM. 18.26 (ANTES CARRETERA VENTANILLA KM. 5.9)"
+    },
+    "fecha_reporte": "2026-08-08",
+    "productos": [
+      {
+        "nombre": "DIESEL B5 S-50 UV",
+        "precio": 22.49,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GAS NATURAL VEHICULAR COMPRIMIDO",
+        "precio": 1.95,
+        "unidad": "Metros Cúbicos"
+      },
+      {
+        "nombre": "GASOHOL PREMIUM",
+        "precio": 20.39,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL REGULAR",
+        "precio": 19.69,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GLP - G",
+        "precio": 6.89,
+        "unidad": "Galones"
+      }
+    ]
+  },
+  {
+    "codigo_osinerg": "95023",
+    "razon_social": "INVERSIONES ESPINOZA Y ASOCIADOS S.A.C.",
+    "actividad": "ESTACIÓN DE SERVICIOS / GRIFOS",
+    "ubicacion": {
+      "departamento": "PROV. CONST. DEL CALLAO",
+      "provincia": "PROV. CONST. DEL CALLAO",
+      "distrito": "VENTANILLA",
+      "direccion": "AV. HUAYNA CAPAC ESQUINA CON CALLE SECHIN, MZ. B8, LOTES 1, 2, 3, 8 Y 9; GRUPO RESIDENCIAL B3, SECTOR B, PROYECTO PILOTO NUEVO PACHACÚTEC"
+    },
+    "fecha_reporte": "2026-08-08",
+    "productos": [
+      {
+        "nombre": "DIESEL B5 S-50 UV",
+        "precio": 22.2,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL PREMIUM",
+        "precio": 19.8,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL REGULAR",
+        "precio": 18.88,
+        "unidad": "Galones"
+      }
+    ]
+  },
+  {
+    "codigo_osinerg": "9516",
+    "razon_social": "GRIFO DENNIS S.A.C.",
+    "actividad": "ESTACIÓN DE SERVICIOS / GRIFOS",
+    "ubicacion": {
+      "departamento": "PROV. CONST. DEL CALLAO",
+      "provincia": "PROV. CONST. DEL CALLAO",
+      "distrito": "CALLAO",
+      "direccion": "AV. BERTELLO MZ. U LT. 14 URB. ALBINO HERRERA"
+    },
+    "fecha_reporte": "2026-08-08",
+    "productos": [
+      {
+        "nombre": "DIESEL B5 S-50 UV",
+        "precio": 23.28,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL PREMIUM",
+        "precio": 20.58,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL REGULAR",
+        "precio": 19.48,
+        "unidad": "Galones"
+      }
+    ]
+  },
+  {
+    "codigo_osinerg": "9525",
+    "razon_social": "PETRO CALLAO S.A.C. ",
+    "actividad": "ESTACIÓN DE SERVICIOS / GRIFOS",
+    "ubicacion": {
+      "departamento": "PROV. CONST. DEL CALLAO",
+      "provincia": "PROV. CONST. DEL CALLAO",
+      "distrito": "CALLAO",
+      "direccion": "AV. ARGENTINA N° 498, URB. CHACARITAS"
+    },
+    "fecha_reporte": "2026-08-08",
+    "productos": [
+      {
+        "nombre": "DIESEL B5 S-50 UV",
+        "precio": 22.33,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL PREMIUM",
+        "precio": 19.22,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL REGULAR",
+        "precio": 17.95,
+        "unidad": "Galones"
+      }
+    ]
+  },
+  {
+    "codigo_osinerg": "9531",
+    "razon_social": "REPSOL COMERCIAL S.A.C. ",
+    "actividad": "ESTACIÓN DE SERVICIO CON GASOCENTRO DE GLP",
+    "ubicacion": {
+      "departamento": "PROV. CONST. DEL CALLAO",
+      "provincia": "PROV. CONST. DEL CALLAO",
+      "distrito": "CALLAO",
+      "direccion": "AV. CORONEL NESTOR GAMBETTA N° 10548"
+    },
+    "fecha_reporte": "2026-08-09",
+    "productos": [
+      {
+        "nombre": "DIESEL B5 S-50 UV",
+        "precio": 26.49,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL PREMIUM",
+        "precio": 22.99,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL REGULAR",
+        "precio": 21.49,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GLP - G",
+        "precio": 7.99,
+        "unidad": "Galones"
+      }
+    ]
+  },
+  {
+    "codigo_osinerg": "9535",
+    "razon_social": "REPSOL COMERCIAL SAC",
+    "actividad": "ESTACIÓN DE SERVICIO CON GASOCENTRO DE GLP",
+    "ubicacion": {
+      "departamento": "PROV. CONST. DEL CALLAO",
+      "provincia": "PROV. CONST. DEL CALLAO",
+      "distrito": "BELLAVISTA",
+      "direccion": "AV. ALMIRANTE GRAU N° 1300, ESQUINA CON LA CALLE VIGIL N° 335-355 (AV. BUENOS AIRES, ESQUINA CON LA CALLE VIGIL)"
+    },
+    "fecha_reporte": "2026-08-09",
+    "productos": [
+      {
+        "nombre": "DIESEL B5 S-50 UV",
+        "precio": 26.49,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL PREMIUM",
+        "precio": 20.99,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL REGULAR",
+        "precio": 19.99,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GLP - G",
+        "precio": 6.99,
+        "unidad": "Galones"
+      }
+    ]
+  },
+  {
+    "codigo_osinerg": "95355",
+    "razon_social": "SERVICENTRO AGUKI S.A.",
+    "actividad": "GASOCENTRO DE GLP CON ESTABLECIMIENTO DE VENTA AL PUBLICO DE GNV",
+    "ubicacion": {
+      "departamento": "PROV. CONST. DEL CALLAO",
+      "provincia": "PROV. CONST. DEL CALLAO",
+      "distrito": "CALLAO",
+      "direccion": "AV. ELMER FAUCETT Nº 5482 (ANTES AV. ELMER FAUCETT MZ.A LOTES 1, 13 Y 14 SUBLOTE M-1 LOTIZACION INDUSTRIAL POCHA REGALADO-EX FUNDO TABOADA)"
+    },
+    "fecha_reporte": "2026-08-08",
+    "productos": [
+      {
+        "nombre": "GAS NATURAL VEHICULAR COMPRIMIDO",
+        "precio": 1.74,
+        "unidad": "Metros Cúbicos"
+      },
+      {
+        "nombre": "GLP - G",
+        "precio": 7.38,
+        "unidad": "Galones"
+      }
+    ]
+  },
+  {
+    "codigo_osinerg": "9542",
+    "razon_social": "ESTACION DE SERVICIOS LA MARINA",
+    "actividad": "ESTACIÓN DE SERVICIO CON GASOCENTRO DE GLP",
+    "ubicacion": {
+      "departamento": "PROV. CONST. DEL CALLAO",
+      "provincia": "PROV. CONST. DEL CALLAO",
+      "distrito": "LA PERLA",
+      "direccion": "AV. LA MARINA N° 405-407 ESQ. CON CALLE ALEJANDRO MAGNO, URB. BENJAMIN DOIG LOSSIO"
+    },
+    "fecha_reporte": "2026-08-08",
+    "productos": [
+      {
+        "nombre": "DIESEL B5 S-50 UV",
+        "precio": 22.95,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL PREMIUM",
+        "precio": 19.79,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL REGULAR",
+        "precio": 18.75,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GLP - G",
+        "precio": 7.43,
+        "unidad": "Galones"
+      }
+    ]
+  },
+  {
+    "codigo_osinerg": "9575",
+    "razon_social": "RED DE COMBUSTIBLES LIQUIDOS S.A.C.",
+    "actividad": "ESTACIÓN DE SERVICIOS / GRIFOS",
+    "ubicacion": {
+      "departamento": "PROV. CONST. DEL CALLAO",
+      "provincia": "PROV. CONST. DEL CALLAO",
+      "distrito": "LA PERLA",
+      "direccion": "JR. TARATA MZ. 1, LOTE 1, URB. LA PERLA"
+    },
+    "fecha_reporte": "2026-08-08",
+    "productos": [
+      {
+        "nombre": "DIESEL B5 S-50 UV",
+        "precio": 22.69,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL PREMIUM",
+        "precio": 19.75,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL REGULAR",
+        "precio": 18.69,
+        "unidad": "Galones"
+      }
+    ]
+  },
+  {
+    "codigo_osinerg": "9576",
+    "razon_social": "PETRONEX PERU SOCIEDAD ANONIMA CERRADA",
+    "actividad": "ESTACIÓN DE SERVICIO CON GASOCENTRO DE GLP",
+    "ubicacion": {
+      "departamento": "PROV. CONST. DEL CALLAO",
+      "provincia": "PROV. CONST. DEL CALLAO",
+      "distrito": "CALLAO",
+      "direccion": "AV. ARGENTINA N° 333 Y JR. HUASCAR N° 102 URB. CHACARITAS"
+    },
+    "fecha_reporte": "2026-08-09",
+    "productos": [
+      {
+        "nombre": "DIESEL B5 S-50 UV",
+        "precio": 23.89,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL PREMIUM",
+        "precio": 19.99,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL REGULAR",
+        "precio": 18.29,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GLP - G",
+        "precio": 6.78,
+        "unidad": "Galones"
+      }
+    ]
+  },
+  {
+    "codigo_osinerg": "9582",
+    "razon_social": "GRIFO DENNIS S.A.C.",
+    "actividad": "ESTACIÓN DE SERVICIOS / GRIFOS",
+    "ubicacion": {
+      "departamento": "PROV. CONST. DEL CALLAO",
+      "provincia": "PROV. CONST. DEL CALLAO",
+      "distrito": "CALLAO",
+      "direccion": "AV. LOS DOMINICOS. MZ. 63 LOTES 9 Y 10. URB. PREVI"
+    },
+    "fecha_reporte": "2026-08-08",
+    "productos": [
+      {
+        "nombre": "DIESEL B5 S-50 UV",
+        "precio": 23.28,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL PREMIUM",
+        "precio": 20.58,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL REGULAR",
+        "precio": 19.48,
+        "unidad": "Galones"
+      }
+    ]
+  },
+  {
+    "codigo_osinerg": "9588",
+    "razon_social": "COESTI  S.A",
+    "actividad": "ESTACIÓN DE SERVICIOS / GRIFOS",
+    "ubicacion": {
+      "departamento": "PROV. CONST. DEL CALLAO",
+      "provincia": "PROV. CONST. DEL CALLAO",
+      "distrito": "CALLAO",
+      "direccion": "AV. ARGENTINA N° 4247"
+    },
+    "fecha_reporte": "2026-08-08",
+    "productos": [
+      {
+        "nombre": "DIESEL B5 S-50 UV",
+        "precio": 24.39,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL PREMIUM",
+        "precio": 21.99,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL REGULAR",
+        "precio": 19.99,
+        "unidad": "Galones"
+      }
+    ]
+  },
+  {
+    "codigo_osinerg": "96316",
+    "razon_social": "GAZEL PERU SAC",
+    "actividad": "EE.SS con GLP y GNV",
+    "ubicacion": {
+      "departamento": "PROV. CONST. DEL CALLAO",
+      "provincia": "PROV. CONST. DEL CALLAO",
+      "distrito": "CALLAO",
+      "direccion": "AV. REPUBLICA DE PANAMÁ MZ. 8, LOTES 5 Y 6, SUB-LOTE 1, URB. CHACARITAS"
+    },
+    "fecha_reporte": "2026-08-08",
+    "productos": [
+      {
+        "nombre": "DIESEL B5 S-50 UV",
+        "precio": 23.89,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GAS NATURAL VEHICULAR COMPRIMIDO",
+        "precio": 1.9,
+        "unidad": "Metros Cúbicos"
+      },
+      {
+        "nombre": "GASOHOL PREMIUM",
+        "precio": 20.09,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL REGULAR",
+        "precio": 19.09,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GLP - G",
+        "precio": 6.89,
+        "unidad": "Galones"
+      }
+    ]
+  },
+  {
+    "codigo_osinerg": "96346",
+    "razon_social": "VAL HIDROCARBUROS S.A.C. ",
+    "actividad": "ESTACIÓN DE SERVICIOS / GRIFOS",
+    "ubicacion": {
+      "departamento": "PROV. CONST. DEL CALLAO",
+      "provincia": "PROV. CONST. DEL CALLAO",
+      "distrito": "CALLAO",
+      "direccion": "MZ. A LOTE 17, ESQUINA AV. ALFREDO PALACIOS CON CALLE SANTA FE"
+    },
+    "fecha_reporte": "2026-08-08",
+    "productos": [
+      {
+        "nombre": "DIESEL B5 S-50 UV",
+        "precio": 22.29,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL PREMIUM",
+        "precio": 19.39,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL REGULAR",
+        "precio": 18.39,
+        "unidad": "Galones"
+      }
+    ]
+  },
+  {
+    "codigo_osinerg": "96397",
+    "razon_social": "PRIXTONE E.I.R.L.",
+    "actividad": "ESTACIÓN DE SERVICIO CON GASOCENTRO DE GLP",
+    "ubicacion": {
+      "departamento": "PROV. CONST. DEL CALLAO",
+      "provincia": "PROV. CONST. DEL CALLAO",
+      "distrito": "VENTANILLA",
+      "direccion": "ASOCIACIÓN TALLER SEÑOR DE LOS MILAGROS, MZ. B5 LT 02, 03, 04, 05 Y 06"
+    },
+    "fecha_reporte": "2026-08-05",
+    "productos": [
+      {
+        "nombre": "DIESEL B5 S-50 UV",
+        "precio": 22.85,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL PREMIUM",
+        "precio": 19.89,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL REGULAR",
+        "precio": 18.79,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GLP - G",
+        "precio": 6.65,
+        "unidad": "Galones"
+      }
+    ]
+  }
+]
