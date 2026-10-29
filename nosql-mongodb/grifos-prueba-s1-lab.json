@@ -1,0 +1,298 @@
+[
+ {
+  "codigo_osinerg": "16703",
+  "razon_social": "COESTI SA",
+  "actividad": "EE.SS con GNV",
+  "ubicacion": {
+   "departamento": "LIMA",
+   "provincia": "LIMA",
+   "distrito": "MIRAFLORES",
+   "direccion": "AV. PASEO DE LA REPUBLICA N° 5545 ESQUINA CON LA AV. RICARDO PALMA"
+  },
+  "fecha_reporte": "2026-08-09",
+  "productos": [
+   {
+    "nombre": "DIESEL B5 S-50 UV",
+    "precio": 24.99,
+    "unidad": "Galones"
+   },
+   {
+    "nombre": "GAS NATURAL VEHICULAR COMPRIMIDO",
+    "precio": 2.06,
+    "unidad": "Metros Cúbicos"
+   },
+   {
+    "nombre": "GASOHOL PREMIUM",
+    "precio": 22.49,
+    "unidad": "Galones"
+   },
+   {
+    "nombre": "GASOHOL REGULAR",
+    "precio": 20.49,
+    "unidad": "Galones"
+   }
+  ]
+ },
+ {
+  "codigo_osinerg": "18820",
+  "razon_social": "GLOBAL FUEL S.A. ",
+  "actividad": "ESTACIÓN DE SERVICIOS / GRIFOS",
+  "ubicacion": {
+   "departamento": "LIMA",
+   "provincia": "LIMA",
+   "distrito": "MIRAFLORES",
+   "direccion": "AV. COMANDANTE ESPINAR Nº 585 ESQUINA CON LA AV. ANGAMOS"
+  },
+  "fecha_reporte": "2026-08-08",
+  "productos": [
+   {
+    "nombre": "DIESEL B5 S-50 UV",
+    "precio": 26.99,
+    "unidad": "Galones"
+   },
+   {
+    "nombre": "GASOHOL PREMIUM",
+    "precio": 26.99,
+    "unidad": "Galones"
+   },
+   {
+    "nombre": "GASOHOL REGULAR",
+    "precio": 25.89,
+    "unidad": "Galones"
+   }
+  ]
+ },
+ {
+  "codigo_osinerg": "8307",
+  "razon_social": "GLOBAL FUEL S.A.",
+  "actividad": "ESTACIÓN DE SERVICIOS / GRIFOS",
+  "ubicacion": {
+   "departamento": "AREQUIPA",
+   "provincia": "AREQUIPA",
+   "distrito": "MIRAFLORES",
+   "direccion": "ESQUINA TENIENTE PALACIOS N° 122 Y CALLE ELIAS AGUIRRE"
+  },
+  "fecha_reporte": "2026-08-08",
+  "productos": [
+   {
+    "nombre": "DIESEL B5 S-50 UV",
+    "precio": 24.05,
+    "unidad": "Galones"
+   },
+   {
+    "nombre": "GASOHOL PREMIUM",
+    "precio": 20.89,
+    "unidad": "Galones"
+   },
+   {
+    "nombre": "GASOHOL REGULAR",
+    "precio": 19.75,
+    "unidad": "Galones"
+   }
+  ]
+ },
+ {
+  "codigo_osinerg": "84478",
+  "razon_social": "AUTOMOTRIZ ANDINA S.A.",
+  "actividad": "ESTACIÓN DE SERVICIO CON GASOCENTRO DE GLP",
+  "ubicacion": {
+   "departamento": "AREQUIPA",
+   "provincia": "AREQUIPA",
+   "distrito": "MIRAFLORES",
+   "direccion": "AV. SEPÚLVEDA N° 434 ESQUINA CON AV. TENIENTE FERRE"
+  },
+  "fecha_reporte": "2026-08-09",
+  "productos": [
+   {
+    "nombre": "DIESEL B5 S-50 UV",
+    "precio": 24.05,
+    "unidad": "Galones"
+   },
+   {
+    "nombre": "GASOHOL PREMIUM",
+    "precio": 20.89,
+    "unidad": "Galones"
+   },
+   {
+    "nombre": "GASOHOL REGULAR",
+    "precio": 19.75,
+    "unidad": "Galones"
+   },
+   {
+    "nombre": "GLP - G",
+    "precio": 6.89,
+    "unidad": "Galones"
+   }
+  ]
+ },
+ {
+  "codigo_osinerg": "165600",
+  "razon_social": "COESTI S.A EESS ALTO MOCHE",
+  "actividad": "EE.SS con GNV",
+  "ubicacion": {
+   "departamento": "LA LIBERTAD",
+   "provincia": "TRUJILLO",
+   "distrito": "MOCHE",
+   "direccion": "SUB LOTE 1B GRUPO A, SECTOR V, FRENTE A LA CARRETERA PANAMERICANA NORTE"
+  },
+  "fecha_reporte": "2026-08-08",
+  "productos": [
+   {
+    "nombre": "DIESEL B5 S-50 UV",
+    "precio": 26.99,
+    "unidad": "Galones"
+   },
+   {
+    "nombre": "GAS NATURAL VEHICULAR LICUEFACTADO",
+    "precio": 3.11,
+    "unidad": "Kilogramos"
+   },
+   {
+    "nombre": "GASOHOL PREMIUM",
+    "precio": 20.99,
+    "unidad": "Galones"
+   },
+   {
+    "nombre": "GASOHOL REGULAR",
+    "precio": 19.99,
+    "unidad": "Galones"
+   }
+  ]
+ },
+ {
+  "codigo_osinerg": "132204",
+  "razon_social": "REPSOL COMERCIAL S.A.C.",
+  "actividad": "EE.SS con GLP y GNV",
+  "ubicacion": {
+   "departamento": "LIMA",
+   "provincia": "LIMA",
+   "distrito": "SAN LUIS",
+   "direccion": "AV. NICOLAS ARRIOLA N° 2140 ESQUINA CON AV. SAN LUIS, URBANIZACION SAN LUIS"
+  },
+  "fecha_reporte": "2026-08-08",
+  "productos": [
+   {
+    "nombre": "GAS NATURAL VEHICULAR COMPRIMIDO",
+    "precio": 1.64,
+    "unidad": "Metros Cúbicos"
+   },
+   {
+    "nombre": "GASOHOL PREMIUM",
+    "precio": 20.99,
+    "unidad": "Galones"
+   },
+   {
+    "nombre": "GASOHOL REGULAR",
+    "precio": 19.99,
+    "unidad": "Galones"
+   },
+   {
+    "nombre": "GLP - G",
+    "precio": 6.79,
+    "unidad": "Galones"
+   }
+  ]
+ },
+ {
+  "codigo_osinerg": "43245",
+  "razon_social": "GRIFOS ESPINOZA S.A.",
+  "actividad": "EE.SS con GLP y GNV",
+  "ubicacion": {
+   "departamento": "LIMA",
+   "provincia": "LIMA",
+   "distrito": "PUENTE PIEDRA",
+   "direccion": "CARRETERA PANAMERICANA NORTE KM. 27.5, PARCELA N° 10271- TAMBO INGA"
+  },
+  "fecha_reporte": "2026-08-09",
+  "productos": [
+   {
+    "nombre": "DIESEL B5 S-50 UV",
+    "precio": 23.69,
+    "unidad": "Galones"
+   },
+   {
+    "nombre": "GAS NATURAL VEHICULAR COMPRIMIDO",
+    "precio": 1.89,
+    "unidad": "Metros Cúbicos"
+   },
+   {
+    "nombre": "GAS NATURAL VEHICULAR LICUEFACTADO",
+    "precio": 2.9,
+    "unidad": "Kilogramos"
+   },
+   {
+    "nombre": "GASOHOL PREMIUM",
+    "precio": 21.19,
+    "unidad": "Galones"
+   },
+   {
+    "nombre": "GASOHOL REGULAR",
+    "precio": 19.99,
+    "unidad": "Galones"
+   },
+   {
+    "nombre": "GLP - G",
+    "precio": 6.49,
+    "unidad": "Galones"
+   }
+  ]
+ },
+ {
+  "codigo_osinerg": "7857",
+  "razon_social": "REPSOL COMERCIAL SAC",
+  "actividad": "ESTACIÓN DE SERVICIOS / GRIFOS",
+  "ubicacion": {
+   "departamento": "MOQUEGUA",
+   "provincia": "MARISCAL NIETO",
+   "distrito": "MOQUEGUA",
+   "direccion": "CRUCE AV. ANDRES A. CACERES CON CARRETERA MOQUEGUA-TOQUEPALA"
+  },
+  "fecha_reporte": "2026-08-09",
+  "productos": [
+   {
+    "nombre": "DIESEL B5 S-50 UV",
+    "precio": 26.99,
+    "unidad": "Galones"
+   },
+   {
+    "nombre": "GASOHOL PREMIUM",
+    "precio": 23.49,
+    "unidad": "Galones"
+   },
+   {
+    "nombre": "GASOHOL REGULAR",
+    "precio": 22.49,
+    "unidad": "Galones"
+   }
+  ]
+ },
+ {
+  "codigo_osinerg": "8787",
+  "razon_social": "GRIFO REPSOL SEÑOR DE AMANCAES",
+  "actividad": "ESTACIÓN DE SERVICIOS / GRIFOS",
+  "ubicacion": {
+   "departamento": "AYACUCHO",
+   "provincia": "HUAMANGA",
+   "distrito": "ANDRES AVELINO CACERES",
+   "direccion": "INTERSECCIÓN VIA DE EVITAMIENTO Y AV. SEÑOR DE AMANCAES"
+  },
+  "fecha_reporte": "2026-08-01",
+  "productos": [
+   {
+    "nombre": "DIESEL B5 S-50 UV",
+    "precio": 24.29,
+    "unidad": "Galones"
+   },
+   {
+    "nombre": "GASOHOL PREMIUM",
+    "precio": 20.49,
+    "unidad": "Galones"
+   },
+   {
+    "nombre": "GASOHOL REGULAR",
+    "precio": 19.29,
+    "unidad": "Galones"
+   }
+  ]
+ }
+]
