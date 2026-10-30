@@ -1,0 +1,367 @@
+[
+  {
+    "codigo_osinerg": "100155",
+    "razon_social": "COESTI S.A",
+    "actividad": "EE.SS con GLP y GNV",
+    "ubicacion": {
+      "departamento": "LIMA",
+      "provincia": "LIMA",
+      "distrito": "LA VICTORIA",
+      "direccion": "AV. NICOLAS ARRIOLA N° 710, URB. SANTA CATALINA"
+    },
+    "fecha_reporte": "2026-08-08",
+    "productos": [
+      {
+        "nombre": "DIESEL B5 S-50 UV",
+        "precio": 24.49,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GAS NATURAL VEHICULAR COMPRIMIDO",
+        "precio": 1.74,
+        "unidad": "Metros Cúbicos"
+      },
+      {
+        "nombre": "GASOHOL PREMIUM",
+        "precio": 19.99,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL REGULAR",
+        "precio": 17.99,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GLP - G",
+        "precio": 7.55,
+        "unidad": "Galones"
+      }
+    ]
+  },
+  {
+    "codigo_osinerg": "106767",
+    "razon_social": "ESTACION DE SERVICIOS SANTO TOMAS DE LIMA S.A.C.",
+    "actividad": "EE.SS con GLP y GNV",
+    "ubicacion": {
+      "departamento": "LIMA",
+      "provincia": "LIMA",
+      "distrito": "SAN MIGUEL",
+      "direccion": "AV. VENEZUELA ESQUINA CON AV. RIVA AGUERO"
+    },
+    "fecha_reporte": "2026-08-08",
+    "productos": [
+      {
+        "nombre": "DIESEL B5 S-50 UV",
+        "precio": 22.69,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GAS NATURAL VEHICULAR COMPRIMIDO",
+        "precio": 1.71,
+        "unidad": "Metros Cúbicos"
+      },
+      {
+        "nombre": "GASOHOL PREMIUM",
+        "precio": 19.99,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL REGULAR",
+        "precio": 18.29,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GLP - G",
+        "precio": 7.79,
+        "unidad": "Galones"
+      }
+    ]
+  },
+  {
+    "codigo_osinerg": "108688",
+    "razon_social": "FERCOR",
+    "actividad": "EE.SS con GLP y GNV",
+    "ubicacion": {
+      "departamento": "LIMA",
+      "provincia": "LIMA",
+      "distrito": "PUENTE PIEDRA",
+      "direccion": "AV. SAN JUAN DE DIOS CON CALLE 7 MZ- C1- LTE-1 URB. LOTIZACION INDUSTRIAL"
+    },
+    "fecha_reporte": "2026-08-08",
+    "productos": [
+      {
+        "nombre": "DIESEL B5 S-50 UV",
+        "precio": 24.99,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GAS NATURAL VEHICULAR COMPRIMIDO",
+        "precio": 1.88,
+        "unidad": "Metros Cúbicos"
+      },
+      {
+        "nombre": "GASOHOL PREMIUM",
+        "precio": 21.88,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL REGULAR",
+        "precio": 19.98,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GLP - G",
+        "precio": 6.29,
+        "unidad": "Galones"
+      }
+    ]
+  },
+  {
+    "codigo_osinerg": "117590",
+    "razon_social": "ENERGIGAS SAC",
+    "actividad": "EE.SS con GLP y GNV",
+    "ubicacion": {
+      "departamento": "LIMA",
+      "provincia": "LIMA",
+      "distrito": "LURIN",
+      "direccion": "PREDIO RURAL SAN PEDRO LOTE UNICO, VALLE DE LURIN, ANTIGUA PANAMERICANA SUR, KM. 34.5"
+    },
+    "fecha_reporte": "2026-08-08",
+    "productos": [
+      {
+        "nombre": "DIESEL B5 S-50 UV",
+        "precio": 22.19,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GAS NATURAL VEHICULAR COMPRIMIDO",
+        "precio": 1.99,
+        "unidad": "Metros Cúbicos"
+      },
+      {
+        "nombre": "GASOHOL PREMIUM",
+        "precio": 19.59,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL REGULAR",
+        "precio": 18.79,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GLP - G",
+        "precio": 6.74,
+        "unidad": "Galones"
+      }
+    ]
+  },
+  {
+    "codigo_osinerg": "123168",
+    "razon_social": "GO COMBUSTIBLE 4 S.A.C.",
+    "actividad": "EE.SS con GLP y GNV",
+    "ubicacion": {
+      "departamento": "LIMA",
+      "provincia": "LIMA",
+      "distrito": "CARABAYLLO",
+      "direccion": "MZ. A, LOTES 65, 66, 1, URBANIZACIÓN TUNGASUCA"
+    },
+    "fecha_reporte": "2026-08-08",
+    "productos": [
+      {
+        "nombre": "DIESEL B5 S-50 UV",
+        "precio": 23.99,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GAS NATURAL VEHICULAR COMPRIMIDO",
+        "precio": 1.79,
+        "unidad": "Metros Cúbicos"
+      },
+      {
+        "nombre": "GASOHOL PREMIUM",
+        "precio": 20.89,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL REGULAR",
+        "precio": 19.85,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GLP - G",
+        "precio": 6.29,
+        "unidad": "Galones"
+      }
+    ]
+  },
+  {
+    "codigo_osinerg": "123985",
+    "razon_social": "ESTACION DE SERVICIOS GRIFO DENVER S.R.L.\t",
+    "actividad": "EE.SS con GLP y GNV",
+    "ubicacion": {
+      "departamento": "LIMA",
+      "provincia": "LIMA",
+      "distrito": "ATE",
+      "direccion": "CARRETERA CENTRAL SUB PARCELA 8A DE LA PARCELA N°10015 EX FUNDO PARIACHI MZ. A LT. 1 Y 2, PROGRAMA DE VIVIENDA 'LAS PONCIANAS DE PARIACHI'"
+    },
+    "fecha_reporte": "2026-08-07",
+    "productos": [
+      {
+        "nombre": "DIESEL B5 S-50 UV",
+        "precio": 21.88,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GAS NATURAL VEHICULAR COMPRIMIDO",
+        "precio": 1.75,
+        "unidad": "Metros Cúbicos"
+      },
+      {
+        "nombre": "GASOHOL PREMIUM",
+        "precio": 19.78,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL REGULAR",
+        "precio": 18.78,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GLP - G",
+        "precio": 6.78,
+        "unidad": "Galones"
+      }
+    ]
+  },
+  {
+    "codigo_osinerg": "125850",
+    "razon_social": "ALTA VIDDA GAS S.A.C",
+    "actividad": "EE.SS con GLP y GNV",
+    "ubicacion": {
+      "departamento": "LIMA",
+      "provincia": "LIMA",
+      "distrito": "SAN JUAN DE LURIGANCHO",
+      "direccion": "MZ. N LOTE 9 PARCELACION SEMI RUSTICA DEL FUNDO CANTO GRANDE 2DA ETAPA"
+    },
+    "fecha_reporte": "2026-08-08",
+    "productos": [
+      {
+        "nombre": "DIESEL B5 S-50 UV",
+        "precio": 23.17,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GAS NATURAL VEHICULAR COMPRIMIDO",
+        "precio": 1.81,
+        "unidad": "Metros Cúbicos"
+      },
+      {
+        "nombre": "GASOHOL PREMIUM",
+        "precio": 20.67,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL REGULAR",
+        "precio": 19.37,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GLP - G",
+        "precio": 6.79,
+        "unidad": "Galones"
+      }
+    ]
+  },
+  {
+    "codigo_osinerg": "100010",
+    "razon_social": "ECOX S.A.C.",
+    "actividad": "ESTACIÓN DE SERVICIO CON GASOCENTRO DE GLP",
+    "ubicacion": {
+      "departamento": "SAN MARTIN",
+      "provincia": "TOCACHE",
+      "distrito": "TOCACHE",
+      "direccion": "JR. MARISCAL RAMON CASTILLA N° 671 INTERSECCION JR. FREDY ALIAGA S/N"
+    },
+    "fecha_reporte": "2026-08-08",
+    "productos": [
+      {
+        "nombre": "DIESEL B5 S-50 UV",
+        "precio": 24.0,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL PREMIUM",
+        "precio": 22.0,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL REGULAR",
+        "precio": 21.0,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GLP - G",
+        "precio": 7.1,
+        "unidad": "Galones"
+      }
+    ]
+  },
+  {
+    "codigo_osinerg": "100129",
+    "razon_social": "GRIFO PARIAHUANCA",
+    "actividad": "ESTACIÓN DE SERVICIO CON GASOCENTRO DE GLP",
+    "ubicacion": {
+      "departamento": "AYACUCHO",
+      "provincia": "CANGALLO",
+      "distrito": "LOS MOROCHUCOS",
+      "direccion": "CARRETERA AYACUCHO VILCASHUAMAN-CANGALLO KM 53"
+    },
+    "fecha_reporte": "2026-08-04",
+    "productos": [
+      {
+        "nombre": "DIESEL B5 S-50 UV",
+        "precio": 23.65,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL PREMIUM",
+        "precio": 20.25,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL REGULAR",
+        "precio": 19.45,
+        "unidad": "Galones"
+      }
+    ]
+  },
+  {
+    "codigo_osinerg": "100232",
+    "razon_social": "ESTACION DE SERVICIOS PACHACAMAC S.A.C.",
+    "actividad": "ESTACIÓN DE SERVICIO CON GASOCENTRO DE GLP",
+    "ubicacion": {
+      "departamento": "LIMA",
+      "provincia": "LIMA",
+      "distrito": "PACHACAMAC",
+      "direccion": "AV. PAUL POBLET, MZ. \"C\" SUB LOTE 1-A, HUERTO DE PACHACAMAC"
+    },
+    "fecha_reporte": "2026-08-08",
+    "productos": [
+      {
+        "nombre": "DIESEL B5 S-50 UV",
+        "precio": 21.99,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL PREMIUM",
+        "precio": 20.34,
+        "unidad": "Galones"
+      },
+      {
+        "nombre": "GASOHOL REGULAR",
+        "precio": 19.79,
+        "unidad": "Galones"
+      }
+    ]
+  }
+]
